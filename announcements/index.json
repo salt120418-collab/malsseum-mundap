@@ -1,28 +1,5 @@
 {
-  "notices": [
-    {
-      "id": "notice-test-2026-10",
-      "enabled": true,
-      "title": {
-        "ko": "테스트 공지",
-        "en": "Test Notice",
-        "es": "Aviso de prueba"
-      },
-      "body": {
-        "ko": "공지 기능 테스트입니다. 이 공지는 확인 후 삭제할 예정입니다.",
-        "en": "This is a test notice. It will be removed after testing.",
-        "es": "Este es un aviso de prueba. Se eliminará después de la prueba."
-      },
-      "image": {
-        "ko": "https://salt120418-collab.github.io/malsseum-mundap/announcements/IMG_7570.JPG",
-        "en": "https://salt120418-collab.github.io/malsseum-mundap/announcements/IMG_7868.JPG",
-        "es": "https://salt120418-collab.github.io/malsseum-mundap/announcements/IMG_8051.jpg"
-      },
-      "alt": {
-        "ko": "테스트 공지",
-        "en": "Test Notice",
-        "es": "Aviso de prueba"
-      }
-    }
-  ]
+  "schemaVersion": 1,
+  "revision": "2026-10-empty",
+  "announcements": []
 }
