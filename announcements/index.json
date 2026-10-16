@@ -1,3 +1,28 @@
 {
-  "notices": []
+  "notices": [
+    {
+      "id": "notice-2-3-1-2026-10",
+      "enabled": true,
+      "title": {
+        "ko": "말씀 문답 2.3.1 업데이트",
+        "en": "Bible Q&A 2.3.1 Update",
+        "es": "Actualización 2.3.1 de Preguntas bíblicas"
+      },
+      "body": {
+        "ko": "자동 업데이트가 되지 않은 경우 Google Play 스토어에서 최신 버전으로 업데이트해 주세요.",
+        "en": "If the app has not updated automatically, please update it through the Google Play Store.",
+        "es": "Si la aplicación no se ha actualizado automáticamente, actualízala desde Google Play Store."
+      },
+      "image": {
+        "ko": "https://salt120418-collab.github.io/malsseum-mundap/announcements/k.png",
+        "en": "https://salt120418-collab.github.io/malsseum-mundap/announcements/e.png",
+        "es": "https://salt120418-collab.github.io/malsseum-mundap/announcements/s.png"
+      },
+      "alt": {
+        "ko": "말씀 문답 2.3.1 업데이트",
+        "en": "Bible Q&A 2.3.1 Update",
+        "es": "Actualización 2.3.1 de Preguntas bíblicas"
+      }
+    }
+  ]
 }
