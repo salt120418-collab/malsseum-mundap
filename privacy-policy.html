@@ -6,14 +6,14 @@
 <p>한영혼선교회 · One Soul Mission</p>
 <nav aria-label="Language"><a href="#ko">한국어</a><a href="#en">English</a><a href="#es">Español</a></nav>
 <article id="ko" lang="ko">
-<h2>개인정보처리방침</h2><p>최종 수정: 2026년 9월 16일</p>
+<h2>개인정보처리방침</h2><p>최종 수정: 2026년 10월 14일</p>
 <p>한영혼선교회(One Soul Mission)는 말씀 문답 앱의 개인정보 처리 주체입니다.</p>
 <h3>1. 처리 정보와 목적</h3>
 <ul>
 <li>Firebase 익명 사용자 식별자(UID)를 계정 구분에 사용합니다. 일반 이용자는 이메일·비밀번호로 가입하지 않지만, 익명 인증도 식별자를 사용하는 방식입니다.</li>
 <li>닉네임, 누적 포인트, 선택 배지, 업데이트 시각을 Cloud Firestore에 저장하여 프로필·랭킹을 제공합니다. 닉네임 중복 방지를 위한 정규화된 이름의 해시와 UID 연결도 보관합니다.</li>
 <li>학습·오답·출제 기록, 날짜·연속 학습 기록, 카테고리 통계, 사용 가능 포인트, 잠금 해제 기록, 언어·효과음 설정은 기기에 저장합니다. 상세 학습 기록 전체를 서버에 동기화하지는 않습니다.</li>
-<li>신고자·대상 UID, 신고 당시 닉네임, 선택한 신고 사유, 처리 상태·시각, 관리자 식별자와 조치 기록을 신고 처리에 사용합니다. 닉네임 규칙 동의, 변경 제한 및 사용자 안내도 보관합니다. 차단 목록(UID·닉네임)은 차단한 이용자의 기기에 저장합니다.</li>
+<li>신고자·대상 UID, 신고 당시 닉네임, 선택한 신고 사유, 처리 상태·시각, 관리자 식별자와 조치 기록을 신고 처리에 사용합니다. 닉네임 규칙 동의, 변경 제한 및 사용자 안내도 보관합니다.</li>
 <li>삭제 본인 확인을 위해 비밀 확인 코드의 해시, 발급 시각과 삭제 진행 상태를 서버에 저장합니다. 원문 코드는 앱의 보안 저장소에 보관하며 삭제 시 서버에 전송합니다. 요청 제한을 위해 UID 또는 접속 IP에서 만든 해시와 요청 횟수·만료 시각을 처리합니다.</li>
 <li>이메일 문의 시 발신 주소와 문의 내용을 답변·본인 확인에 사용합니다. Firebase와 웹 호스팅 제공자는 연결·보안 목적으로 IP 주소, 사용자 에이전트 등 기술 정보를 처리할 수 있습니다.</li>
 </ul>
@@ -23,6 +23,7 @@
 <h3>3. 외부 서비스</h3>
 <p>Google Firebase Authentication, Cloud Firestore, Cloud Functions를 인증·저장·신고·삭제 처리에 사용합니다. 프로젝트 설정 및 제공자의 처리 체계에 따라 거주 국가 밖에서 처리될 수 있습니다. 관리자 신고 메일을 활성화하면 설정된 이메일 전송 제공자를 통해 운영자에게 신고 번호와 일반적인 알림을 보냅니다. 비밀 삭제 코드나 신고 대상 닉네임은 이 알림에 넣지 않습니다. 이메일 알림은 별도 설정 전에는 비활성화되어 있습니다.</p>
 <p>정책·삭제 웹페이지, YouTube 등 외부 링크에는 해당 제공자의 개인정보처리방침도 적용됩니다. <a href="https://firebase.google.com/support/privacy">Firebase 개인정보 보호</a> · <a href="https://policies.google.com/privacy?hl=ko">Google 개인정보처리방침</a></p>
+<h3>3-1. 선택적 이용 분석 (Android 앱)</h3><p>이용자가 “이용 분석 (선택)”을 켠 경우 Google Analytics for Firebase로 앱 이용 및 닉네임 등록 완료를 측정하여 서비스 개선과 유입 성과 분석에 사용합니다. 기본값은 꺼짐이며, 동의하지 않아도 모든 앱 기능을 이용할 수 있습니다. 설정에서 언제든 끌 수 있습니다. 수집 항목에는 앱 인스턴스 식별자, 이용 이벤트, 기기·운영체제·앱 버전 정보와 대략적인 지역 정보 등이 포함될 수 있습니다. 닉네임, Firebase 계정 UID, 퀴즈 답변, 비밀 삭제 코드는 분석 이벤트에 보내지 않습니다. 광고 ID 수집, 광고 개인화 및 광고 사용자 데이터 제공은 비활성화합니다.</p><p>분석 정보는 Google의 처리 체계에 따라 국외에서 처리될 수 있으며 Google Analytics의 보관 설정과 정책이 적용됩니다. 분석을 끄면 이후 분석 수집을 중단합니다. 앱 내 계정 삭제 시 기기의 분석 정보를 초기화하고 수집을 끄지만, 이미 전송된 분석 정보나 집계 보고서가 즉시 서버에서 삭제되는 것은 아닙니다. 분석 정보 관련 문의도 아래 이메일로 보내 주세요.</p>
 <h3>4. 보관과 삭제</h3>
 <p>계정·랭킹·이름 예약·계정 보호 정보는 서비스 제공에 필요한 동안 보관하며 계정 삭제 시 제거합니다. 신고와 서버의 메일 대기 기록은 생성 후 90일을 기준으로 일일 정리 작업에서 제거하며, 해당 계정 삭제 시 관련 기록을 정리합니다. 삭제 완료 재시도 및 재생성 방지를 위한 코드·UID 해시 기록은 완료 후 7일을 기준으로 일일 정리합니다. 요청 제한 기록도 만료 후 일일 정리합니다. 작업 장애나 대량 처리 시 정리가 지연될 수 있습니다. 중단된 삭제의 확인 정보는 삭제 재시도가 완료될 때까지 보관합니다.</p>
 <p>기기 기록은 앱의 삭제 기능이나 운영체제의 앱 데이터 삭제 기능으로 제거할 수 있습니다. 앱 제거만으로 서버 계정은 삭제되지 않으며 기기 백업에 따라 복원 여부가 달라집니다. 이메일 문의와 수신한 알림은 처리·분쟁 대응에 필요한 동안 보관 후 삭제하며, 법적 보관 의무가 있으면 해당 기간을 따릅니다. 제공자 로그·백업에는 제공자의 보관 정책이 적용될 수 있습니다.</p>
@@ -35,14 +36,14 @@
 <p>열람·정정·삭제 및 적용 법령상 권리 행사, 닉네임 조치 이의 문의: 한영혼선교회 / <a href="mailto:salt418@naver.com">salt418@naver.com</a>. 최소한의 본인 확인을 요청할 수 있습니다. 기능·처리 방식 변경 시 방침과 수정일을 갱신하며 필요한 고지·동의 절차를 따릅니다.</p>
 </article>
 <article id="en" lang="en">
-<h2>Privacy Policy</h2><p>Last updated: September 16, 2026</p>
+<h2>Privacy Policy</h2><p>Last updated: October 14, 2026</p>
 <p>One Soul Mission (한영혼선교회) is responsible for personal information processed in the Bible Q&amp;A app.</p>
 <h3>1. Information and purposes</h3>
 <ul>
 <li>A Firebase anonymous user identifier (UID) identifies your account. Ordinary users do not register with an email and password; anonymous authentication still uses an identifier.</li>
 <li>Cloud Firestore stores your nickname, cumulative points, selected badge and update time for profiles and rankings. A hash of the normalized nickname linked to the UID prevents duplicate names.</li>
 <li>Learning, incorrect-answer and question records, dates and streaks, category statistics, available points, unlocked content, language and sound settings are stored on your device. Not all detailed learning records are synchronized to the server.</li>
-<li>Reports include reporter and target UIDs, the reported nickname, selected reason, status, timestamps, administrator identifier and actions. These support moderation. We also store nickname-rule acceptance, restrictions and notices. Your block list (UIDs and nicknames) is stored on your device.</li>
+<li>Reports include reporter and target UIDs, the reported nickname, selected reason, status, timestamps, administrator identifier and actions. These support moderation. We also store nickname-rule acceptance, restrictions and notices.</li>
 <li>For deletion verification, the server stores a hash of a secret code, its issue time and deletion status. The original code is held in the App’s secure storage and transmitted when requesting deletion. Request limits use hashes derived from UIDs or connection IP addresses, counters and expiry times.</li>
 <li>Email inquiries use your sender address and message for responses and verification. Firebase and web hosts may process IP addresses, user-agent information and other technical data for connections and security.</li>
 </ul>
@@ -52,6 +53,7 @@
 <h3>3. External services</h3>
 <p>Google Firebase Authentication, Cloud Firestore and Cloud Functions provide authentication, storage, reporting and deletion. Depending on project settings and providers’ arrangements, information may be processed outside your country. If administrator report emails are enabled, the configured email provider sends a report ID and general notification to the operator, without secret deletion codes or the reported nickname. Email notifications are disabled until separately configured.</p>
 <p>Privacy and deletion webpages, YouTube and other external sites also apply their providers’ policies. <a href="https://firebase.google.com/support/privacy">Firebase Privacy</a> · <a href="https://policies.google.com/privacy?hl=en">Google Privacy Policy</a></p>
+<h3>3-1. Optional usage analytics (Android app)</h3><p>If you enable “Usage analytics (optional)”, Google Analytics for Firebase measures app use and completed nickname registration to improve the service and understand acquisition performance. It is off by default. All app features remain available without consent, and you can turn it off in Settings. Data may include an app instance identifier, usage events, device, operating system and app version information, and approximate location. We do not send nicknames, Firebase account UIDs, quiz answers or secret deletion codes in analytics events. Advertising ID collection, ad personalization and advertising user data sharing are disabled.</p><p>Google may process analytics data outside your country under its processing arrangements; Google Analytics retention settings and policies apply. Turning analytics off stops future collection. Deleting your account in the app resets analytics data on the device and disables collection; it does not immediately delete previously transmitted analytics data or aggregated reports from Google’s servers. Contact the email below with questions about analytics data.</p>
 <h3>4. Retention and deletion</h3>
 <p>Account, ranking, nickname-reservation and account-safety information is retained to provide the service and removed on account deletion. Reports and server email-queue records are eligible for daily cleanup 90 days after creation; related records are also removed during account deletion. Hashed deletion-code and UID records supporting completed-request retries and preventing recreation are eligible for daily cleanup after seven days. Rate-limit records are cleaned up after expiry. Outages or large workloads may delay cleanup. Verification information for interrupted deletions remains until deletion is completed by retrying.</p>
 <p>Device records can be removed through App deletion controls or operating-system app-data controls. Uninstalling alone does not delete the server account; restoration depends on device backups. Email inquiries and received notifications are retained as needed for handling and related disputes, then deleted, subject to legal retention duties. Provider logs and backups may follow provider retention policies.</p>
@@ -64,14 +66,14 @@
 <p>For access, correction, deletion, rights under applicable law or moderation appeals, contact One Soul Mission at <a href="mailto:salt418@naver.com">salt418@naver.com</a>. Minimal ownership verification may be requested. We update this policy and its date when processing changes and follow applicable notice and consent requirements.</p>
 </article>
 <article id="es" lang="es">
-<h2>Política de privacidad</h2><p>Última actualización: 16 de septiembre de 2026</p>
+<h2>Política de privacidad</h2><p>Última actualización: 14 de octubre de 2026</p>
 <p>One Soul Mission (한영혼선교회) es responsable de la información personal tratada en la aplicación Preguntas bíblicas.</p>
 <h3>1. Información y finalidades</h3>
 <ul>
 <li>Un identificador anónimo de Firebase (UID) identifica tu cuenta. Los usuarios habituales no se registran con correo y contraseña; la autenticación anónima también utiliza un identificador.</li>
 <li>Cloud Firestore guarda el apodo, los puntos acumulados, la insignia seleccionada y la fecha de actualización para perfiles y clasificaciones. Un hash del apodo normalizado vinculado al UID evita nombres duplicados.</li>
 <li>Los registros de aprendizaje, errores y preguntas, fechas y rachas, estadísticas por categoría, puntos disponibles, contenidos desbloqueados e idioma y sonido se guardan en el dispositivo. No se sincronizan todos los registros detallados con el servidor.</li>
-<li>Las denuncias incluyen los UID del denunciante y del usuario denunciado, el apodo denunciado, el motivo seleccionado, el estado, las fechas, el identificador del administrador y sus medidas. También se guardan la aceptación de las reglas, restricciones y avisos. Tu lista de bloqueo (UID y apodo) se guarda en tu dispositivo.</li>
+<li>Las denuncias incluyen los UID del denunciante y del usuario denunciado, el apodo denunciado, el motivo seleccionado, el estado, las fechas, el identificador del administrador y sus medidas. También se guardan la aceptación de las reglas, restricciones y avisos.</li>
 <li>Para verificar la eliminación, el servidor guarda un hash del código secreto, su fecha de emisión y el estado de eliminación. El código original se conserva en el almacenamiento seguro de la Aplicación y se transmite al solicitar la eliminación. Los límites de solicitudes usan hashes derivados del UID o de la IP de conexión, contadores y fechas de caducidad.</li>
 <li>Las consultas por correo utilizan tu dirección y mensaje para responder y verificar la titularidad. Firebase y el alojamiento web pueden tratar IP, datos del agente de usuario y otros datos técnicos para conexión y seguridad.</li>
 </ul>
@@ -81,6 +83,7 @@
 <h3>3. Servicios externos</h3>
 <p>Google Firebase Authentication, Cloud Firestore y Cloud Functions proporcionan autenticación, almacenamiento, denuncias y eliminación. Según la configuración y los proveedores, los datos pueden tratarse fuera de tu país. Si se activan avisos de denuncias por correo, el proveedor configurado envía al operador el identificador de denuncia y un aviso general, sin códigos secretos ni el apodo denunciado. Estos correos están desactivados hasta configurarlos por separado.</p>
 <p>Las páginas de privacidad y eliminación, YouTube y otros sitios externos también aplican las políticas de sus proveedores. <a href="https://firebase.google.com/support/privacy">Privacidad de Firebase</a> · <a href="https://policies.google.com/privacy?hl=es">Política de Google</a></p>
+<h3>3-1. Análisis de uso opcional (app Android)</h3><p>Si activas “Análisis de uso (opcional)”, Google Analytics for Firebase mide el uso de la app y el registro completado del apodo para mejorar el servicio y conocer los resultados de captación. Está desactivado por defecto. Puedes usar todas las funciones sin aceptar y desactivarlo en Ajustes. Los datos pueden incluir un identificador de instancia de la app, eventos de uso, información del dispositivo, sistema operativo y versión de la app, y ubicación aproximada. No enviamos apodos, UID de cuentas Firebase, respuestas ni códigos secretos de eliminación en los eventos de análisis. La recopilación del ID publicitario, la personalización de anuncios y el envío de datos de usuario para publicidad están desactivados.</p><p>Google puede tratar estos datos fuera de tu país según sus acuerdos; se aplican la configuración de conservación y las políticas de Google Analytics. Desactivar el análisis detiene la recopilación futura. Eliminar tu cuenta en la app restablece los datos de análisis del dispositivo y desactiva su recopilación; no elimina inmediatamente de los servidores de Google los datos ya enviados ni los informes agregados. Puedes consultar sobre estos datos en el correo indicado abajo.</p>
 <h3>4. Conservación y eliminación</h3>
 <p>La información de cuenta, clasificación, reserva de apodo y protección se conserva para prestar el servicio y se elimina al borrar la cuenta. Las denuncias y registros de la cola de correo del servidor pasan a la limpieza diaria a los 90 días de su creación; los registros relacionados también se eliminan al borrar la cuenta. Los hashes del código y UID que permiten reintentos de solicitudes completadas y evitan recreaciones pasan a la limpieza diaria después de siete días. Los límites de solicitudes se limpian tras caducar. Las interrupciones o grandes volúmenes pueden retrasar la limpieza. La verificación de eliminaciones interrumpidas se conserva hasta completarlas mediante un reintento.</p>
 <p>Los registros del dispositivo pueden borrarse con los controles de la Aplicación o del sistema operativo. Desinstalar no elimina por sí solo la cuenta del servidor; la restauración depende de las copias del dispositivo. Las consultas por correo y avisos recibidos se conservan mientras sean necesarios para su gestión y controversias relacionadas, y después se eliminan, salvo obligaciones legales. Los registros y copias de los proveedores pueden seguir sus propias políticas.</p>
