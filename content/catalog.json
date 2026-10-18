@@ -1,6 +1,3446 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-test-removed",
-  "categories": [],
-  "questions": []
+  "revision": "2026-10-gospels-023-120",
+  "categories": [
+    {
+      "id": "사복음서",
+      "name": {
+        "ko": "사복음서",
+        "en": "Four Gospels",
+        "es": "Cuatro Evangelios"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "remote-gospels-023",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "예수님께서 문둥병자에게 손을 대어 고치신 사건이 보여주는 가장 중요한 의미는 무엇입니까?",
+        "choices": [
+          "예수님은 율법 아래가 아니라 율법 위에 계신 분이다",
+          "병을 고치려면 반드시 손을 대야 한다",
+          "문둥병자는 다른 병자보다 믿음이 없었다",
+          "모든 병은 사람의 죄 때문에 생긴다"
+        ],
+        "explanation": "당시에는 문둥병자를 만지면 부정해진다고 여겼지만, 예수님께서 그를 만지시자 예수님이 부정해진 것이 아니라 병자가 깨끗해졌습니다."
+      },
+      "en": {
+        "question": "What is the most important meaning of Jesus touching and healing a man with leprosy?",
+        "choices": [
+          "Jesus is not under the law but is Lord over it.",
+          "A sick person can be healed only through physical touch.",
+          "The man with leprosy had less faith than other sick people.",
+          "Every illness is caused by a person's sin."
+        ],
+        "explanation": "People believed that touching a person with leprosy made someone unclean. Yet when Jesus touched him, Jesus did not become unclean; the man became clean. This shows that Jesus is the Lord of the law, not one ruled by it."
+      },
+      "es": {
+        "question": "¿Cuál es el significado principal de que Jesús tocara y sanara a un leproso?",
+        "choices": [
+          "Jesús no está bajo la ley, sino que es Señor sobre ella.",
+          "Para sanar siempre es necesario tocar al enfermo.",
+          "El leproso tenía menos fe que otros enfermos.",
+          "Toda enfermedad es consecuencia del pecado personal."
+        ],
+        "explanation": "Se creía que tocar a un leproso hacía impura a la persona. Sin embargo, Jesús no quedó impuro; el enfermo quedó limpio. Esto muestra que Jesús es Señor de la ley."
+      }
+    },
+    {
+      "id": "remote-gospels-024",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "예수님께서 중풍병자를 고치시기 전에 먼저 “네 죄가 사함을 받았다”고 말씀하신 이유는 무엇입니까?",
+        "choices": [
+          "친구들의 수고를 칭찬하기 위해서",
+          "육체의 치유보다 죄에서 구원받는 일이 더 중요함을 알리기 위해서",
+          "병의 원인을 밝히기 위해서",
+          "서기관들에게 율법을 가르치기 위해서"
+        ],
+        "explanation": "사람들은 눈에 보이는 질병의 치료에 더 관심을 두기 쉽습니다. 예수님께서는 죄 사함을 먼저 선포하심으로 눈에 보이는 치유보다 구원의 은혜가 더 크고 중요함을 가르치셨습니다."
+      },
+      "en": {
+        "question": "Why did Jesus first tell the paralyzed man, “Your sins are forgiven,” before healing him?",
+        "choices": [
+          "To praise the efforts of his friends",
+          "To show that salvation from sin is more important than physical healing",
+          "To reveal the cause of his illness",
+          "To teach the law to the scribes"
+        ],
+        "explanation": "People readily focus on visible healing. By declaring forgiveness first, Jesus taught that the grace of salvation is greater and more important than physical healing."
+      },
+      "es": {
+        "question": "¿Por qué Jesús dijo primero al paralítico «Tus pecados te son perdonados» antes de sanarlo?",
+        "choices": [
+          "Para elogiar el esfuerzo de sus amigos",
+          "Para mostrar que la salvación del pecado es más importante que la sanidad física",
+          "Para revelar la causa de su enfermedad",
+          "Para enseñar la ley a los escribas"
+        ],
+        "explanation": "Las personas suelen concentrarse en la sanidad visible. Al declarar primero el perdón, Jesús enseñó que la gracia de la salvación es mayor que la sanidad física."
+      }
+    },
+    {
+      "id": "remote-gospels-025",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "세리 마태가 예수님을 위해 큰 잔치를 열고 동료들을 초대한 주된 이유는 무엇입니까?",
+        "choices": [
+          "자신의 재산을 자랑하려고",
+          "바리새인들과 논쟁하려고",
+          "동료들에게 예수님을 소개하려고",
+          "세리 일을 계속하기 위해서"
+        ],
+        "explanation": "마태는 예수님의 부르심을 받은 뒤 자신과 같은 동료들에게 예수님을 알리고 싶어 했습니다. 복음을 받아들인 사람은 다른 이에게도 예수님을 전하고 싶은 마음이 생긴다는 것을 보여줍니다."
+      },
+      "en": {
+        "question": "Why did Matthew the tax collector hold a great banquet for Jesus and invite his colleagues?",
+        "choices": [
+          "To boast about his wealth",
+          "To argue with the Pharisees",
+          "To introduce Jesus to his colleagues",
+          "To continue working as a tax collector"
+        ],
+        "explanation": "After Jesus called him, Matthew wanted other tax collectors to know Jesus too. Those who receive the gospel naturally desire to share Jesus with others."
+      },
+      "es": {
+        "question": "¿Por qué el recaudador Mateo ofreció un gran banquete para Jesús e invitó a sus compañeros?",
+        "choices": [
+          "Para presumir de su riqueza",
+          "Para discutir con los fariseos",
+          "Para presentarles a Jesús",
+          "Para continuar como recaudador"
+        ],
+        "explanation": "Después de ser llamado, Mateo quiso que sus compañeros también conocieran a Jesús. Quien recibe el evangelio desea compartirlo con otros."
+      }
+    },
+    {
+      "id": "remote-gospels-026",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "예수님께서 자신을 “안식일의 주인”이라고 하신 말씀의 뜻은 무엇입니까?",
+        "choices": [
+          "안식일에는 아무 일도 하지 말라는 뜻이다",
+          "안식일을 없애겠다는 뜻이다",
+          "제자들만 안식일 규정에서 제외된다는 뜻이다",
+          "예수님께서 안식일의 의미와 목적을 정하신 분이라는 뜻이다"
+        ],
+        "explanation": "예수님은 안식일의 입법자이며 그 참된 목적을 온전히 아시는 분입니다. 안식일은 사람을 억압하기 위한 날이 아니라 하나님의 백성이 하나님과 교제하도록 주신 날입니다."
+      },
+      "en": {
+        "question": "What did Jesus mean when he called himself “Lord of the Sabbath”?",
+        "choices": [
+          "No work of any kind may be done on the Sabbath.",
+          "He intended to abolish the Sabbath.",
+          "Only his disciples were exempt from Sabbath rules.",
+          "Jesus is the one who determines the Sabbath's meaning and purpose."
+        ],
+        "explanation": "Jesus established the Sabbath and fully knows its true purpose. It was given not to oppress people, but to help God's people enjoy fellowship with him."
+      },
+      "es": {
+        "question": "¿Qué quiso decir Jesús al llamarse «Señor del sábado»?",
+        "choices": [
+          "Que no debe hacerse absolutamente nada en sábado",
+          "Que eliminaría el sábado",
+          "Que solo sus discípulos estaban exentos de sus normas",
+          "Que Jesús determina el significado y el propósito del sábado"
+        ],
+        "explanation": "Jesús estableció el sábado y conoce su verdadero propósito. Fue dado para que el pueblo de Dios tenga comunión con él, no para oprimirlo."
+      }
+    },
+    {
+      "id": "remote-gospels-027",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "예수님께서 안식일에 손 마른 사람을 고치신 사건을 통해 책망하신 태도는 무엇입니까?",
+        "choices": [
+          "사람의 생명보다 규정과 형식을 앞세우는 태도",
+          "병든 사람을 회당에 데려오는 태도",
+          "안식일에 회당에 모이는 태도",
+          "치료받기 전에 기도하지 않는 태도"
+        ],
+        "explanation": "종교 지도자들은 고통받는 사람보다 안식일 규정을 이용해 예수님을 고발하는 데 관심을 두었습니다. 예수님께서는 형식보다 생명과 자비가 우선임을 행동으로 보여주셨습니다."
+      },
+      "en": {
+        "question": "What attitude did Jesus rebuke by healing the man with the withered hand on the Sabbath?",
+        "choices": [
+          "Putting rules and outward forms before human life",
+          "Bringing a sick person into the synagogue",
+          "Gathering in the synagogue on the Sabbath",
+          "Failing to pray before receiving treatment"
+        ],
+        "explanation": "The religious leaders cared more about using the Sabbath rule to accuse Jesus than about the suffering man. Jesus showed that life and mercy take priority over outward form."
+      },
+      "es": {
+        "question": "¿Qué actitud reprendió Jesús al sanar en sábado al hombre de la mano seca?",
+        "choices": [
+          "Poner las reglas y las formas por encima de la vida humana",
+          "Llevar enfermos a la sinagoga",
+          "Reunirse en sábado",
+          "No orar antes de recibir tratamiento"
+        ],
+        "explanation": "Los dirigentes se preocupaban más por acusar a Jesús que por el hombre que sufría. Jesús mostró que la vida y la misericordia están por encima de la forma externa."
+      }
+    },
+    {
+      "id": "remote-gospels-028",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "예수님께서 열두 제자를 세우시기 전에 밤새 기도하신 사실에서 배울 수 있는 것은 무엇입니까?",
+        "choices": [
+          "제자는 반드시 열두 명이어야 한다",
+          "중요한 선택일수록 하나님의 뜻을 구해야 한다",
+          "기도는 밤에만 해야 한다",
+          "능력이 뛰어난 사람만 선택해야 한다"
+        ],
+        "explanation": "예수님께서는 사역을 함께할 제자들을 선택하는 중요한 일을 앞두고 기도하셨습니다. 성도 역시 중요한 결정을 자기 판단만으로 내리지 말고 하나님의 뜻을 구해야 합니다."
+      },
+      "en": {
+        "question": "What can we learn from Jesus praying all night before choosing the twelve disciples?",
+        "choices": [
+          "There must always be exactly twelve disciples.",
+          "The more important the choice, the more we should seek God's will.",
+          "Prayer should be offered only at night.",
+          "Only highly capable people should be chosen."
+        ],
+        "explanation": "Jesus prayed before the important task of choosing those who would serve with him. Believers should also seek God's will rather than making major decisions by their own judgment alone."
+      },
+      "es": {
+        "question": "¿Qué aprendemos de que Jesús orara toda la noche antes de escoger a los doce discípulos?",
+        "choices": [
+          "Siempre debe haber exactamente doce discípulos.",
+          "Cuanto más importante sea la decisión, más debemos buscar la voluntad de Dios.",
+          "Solo se debe orar de noche.",
+          "Solo deben escogerse personas muy capaces."
+        ],
+        "explanation": "Jesús oró antes de escoger a quienes servirían con él. También nosotros debemos buscar la voluntad de Dios en las decisiones importantes."
+      }
+    },
+    {
+      "id": "remote-gospels-029",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "팔복에서 말하는 복은 세상이 말하는 성공과 무엇이 다릅니까?",
+        "choices": [
+          "재산과 지위가 많아지는 복이다",
+          "고난을 전혀 겪지 않는 복이다",
+          "하나님을 의지하는 마음과 하나님 나라에 속한 상태의 복이다",
+          "모든 사람에게 칭찬받는 복이다"
+        ],
+        "explanation": "팔복은 세상의 조건이 좋아지는 것을 복이라고 말하지 않습니다. 심령이 가난하고 의에 주리고 목마른 사람이 하나님을 의지하며 하나님 나라의 은혜를 누리는 참된 복을 말합니다."
+      },
+      "en": {
+        "question": "How do the blessings in the Beatitudes differ from worldly success?",
+        "choices": [
+          "They mean gaining more wealth and status.",
+          "They mean never experiencing hardship.",
+          "They describe a heart that depends on God and a life that belongs to his kingdom.",
+          "They mean being praised by everyone."
+        ],
+        "explanation": "The Beatitudes do not define blessing as improved worldly circumstances. True blessing belongs to those who depend on God and enjoy the grace of his kingdom."
+      },
+      "es": {
+        "question": "¿En qué se diferencian las bendiciones de las Bienaventuranzas del éxito del mundo?",
+        "choices": [
+          "Consisten en tener más riqueza y posición.",
+          "Consisten en no sufrir nunca.",
+          "Describen un corazón que depende de Dios y una vida que pertenece a su reino.",
+          "Consisten en recibir elogios de todos."
+        ],
+        "explanation": "Las Bienaventuranzas no llaman bendición a las buenas circunstancias. La verdadera bendición pertenece a quienes dependen de Dios y disfrutan la gracia de su reino."
+      }
+    },
+    {
+      "id": "remote-gospels-030",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "예수님께서 제자들을 세상의 소금이라고 하신 말씀에 가장 가까운 뜻은 무엇입니까?",
+        "choices": [
+          "세상과 완전히 단절하라는 뜻이다",
+          "언제나 강한 말로 세상을 책망하라는 뜻이다",
+          "음식에 관한 율법을 지키라는 뜻이다",
+          "믿는 사람이 세상의 부패를 막고 선한 영향을 끼쳐야 한다는 뜻이다"
+        ],
+        "explanation": "소금이 부패를 막고 맛을 내듯 성도는 삶을 통해 세상에 선한 영향을 주어야 합니다. 소금이 맛을 잃으면 쓸모가 없듯 믿음은 삶에서 드러나야 합니다."
+      },
+      "en": {
+        "question": "What did Jesus primarily mean when he called his disciples the salt of the earth?",
+        "choices": [
+          "Believers must completely separate themselves from the world.",
+          "Believers must always rebuke the world harshly.",
+          "Believers must keep dietary laws.",
+          "Believers should restrain corruption and exert a good influence in the world."
+        ],
+        "explanation": "As salt preserves food and gives it flavor, believers should influence the world for good through their lives. Faith must be visible in life, just as salt must retain its taste."
+      },
+      "es": {
+        "question": "¿Qué quiso decir principalmente Jesús al llamar a sus discípulos la sal de la tierra?",
+        "choices": [
+          "Que deben aislarse por completo del mundo",
+          "Que deben reprender siempre al mundo con dureza",
+          "Que deben guardar las leyes alimentarias",
+          "Que deben frenar la corrupción e influir para bien"
+        ],
+        "explanation": "Así como la sal conserva y da sabor, la vida del creyente debe ejercer una buena influencia. La fe debe hacerse visible en la vida."
+      }
+    },
+    {
+      "id": "remote-gospels-031",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "예수님께서 율법을 폐하러 온 것이 아니라 완전하게 하러 오셨다고 하신 뜻은 무엇입니까?",
+        "choices": [
+          "율법에 담긴 하나님의 참된 뜻을 밝히고 이루신다는 뜻이다",
+          "율법의 문자만 철저히 지키라는 뜻이다",
+          "율법의 조항을 더 많이 만들겠다는 뜻이다",
+          "구약의 말씀은 더 이상 필요 없다는 뜻이다"
+        ],
+        "explanation": "예수님은 겉으로 드러난 행위만이 아니라 그 행위가 시작되는 마음까지 살피셨습니다. 율법의 외형에 머물지 않고 그 안에 담긴 하나님의 뜻을 이루는 것이 율법의 완성입니다."
+      },
+      "en": {
+        "question": "What did Jesus mean when he said that he came not to abolish the law but to fulfill it?",
+        "choices": [
+          "He would reveal and accomplish God's true purpose within the law.",
+          "People must strictly keep only the letter of the law.",
+          "He would create many more laws.",
+          "The Old Testament was no longer necessary."
+        ],
+        "explanation": "Jesus examined not only outward actions but also the heart from which they arise. Fulfilling the law means accomplishing God's purpose within it rather than stopping at outward observance."
+      },
+      "es": {
+        "question": "¿Qué significa que Jesús vino no a abolir la ley, sino a cumplirla?",
+        "choices": [
+          "Que revelaría y cumpliría la verdadera voluntad de Dios contenida en la ley",
+          "Que solo debía guardarse estrictamente la letra",
+          "Que crearía muchas leyes nuevas",
+          "Que el Antiguo Testamento ya no era necesario"
+        ],
+        "explanation": "Jesús miró no solo los actos externos, sino también el corazón que los origina. Cumplir la ley es realizar el propósito de Dios contenido en ella."
+      }
+    },
+    {
+      "id": "remote-gospels-032",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "예수님께서 미움과 살인을 함께 말씀하신 이유는 무엇입니까?",
+        "choices": [
+          "미워하면 반드시 실제 살인을 하기 때문이다",
+          "죄의 근본은 행동 이전에 마음에서 시작되기 때문이다",
+          "분노는 언제나 형사 처벌을 받기 때문이다",
+          "모든 갈등을 피해야 하기 때문이다"
+        ],
+        "explanation": "사람은 살인이라는 행동을 기준으로 판단하지만 하나님은 그 행동이 시작되는 마음을 보십니다. 형제를 미워하고 업신여기는 마음속에서도 자신의 죄성을 발견하고 속히 회개해야 합니다."
+      },
+      "en": {
+        "question": "Why did Jesus speak of hatred together with murder?",
+        "choices": [
+          "Hatred always leads to actual murder.",
+          "Sin begins in the heart before it becomes an action.",
+          "Anger always results in criminal punishment.",
+          "Every conflict must be avoided."
+        ],
+        "explanation": "People judge the act of murder, but God also sees the heart where it begins. We must recognize and repent of the sin revealed in hatred and contempt."
+      },
+      "es": {
+        "question": "¿Por qué Jesús habló del odio junto con el homicidio?",
+        "choices": [
+          "Porque el odio siempre termina en homicidio",
+          "Porque el pecado comienza en el corazón antes de convertirse en acción",
+          "Porque la ira siempre recibe castigo penal",
+          "Porque debe evitarse todo conflicto"
+        ],
+        "explanation": "Las personas juzgan el acto, pero Dios también ve el corazón donde nace. Debemos reconocer y abandonar el odio y el desprecio."
+      }
+    },
+    {
+      "id": "remote-gospels-033",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "예수님 당시 간음과 이혼에 관한 가르침이 개인의 문제만이 아니었던 이유는 무엇입니까?",
+        "choices": [
+          "결혼식을 성전에서 하지 않았기 때문이다",
+          "로마인이 결혼을 금지했기 때문이다",
+          "남편들이 여성을 부당하게 내쫓아 사회적 고통과 타락을 낳았기 때문이다",
+          "모든 유대인이 결혼하지 않았기 때문이다"
+        ],
+        "explanation": "당시에는 여성을 보호하는 권리가 제대로 보장되지 않은 채 아내를 내쫓는 일이 있었습니다. 예수님은 욕심과 불의가 다른 사람을 죄와 고통으로 몰아넣는 사회적 문제까지 지적하셨습니다."
+      },
+      "en": {
+        "question": "Why was Jesus' teaching on adultery and divorce not merely a private matter in his day?",
+        "choices": [
+          "Weddings were not held in the temple.",
+          "Romans prohibited marriage.",
+          "Men unjustly dismissed women, causing social suffering and moral corruption.",
+          "No Jewish people married."
+        ],
+        "explanation": "Women were sometimes dismissed without adequate legal protection. Jesus exposed the wider social harm caused when greed and injustice drive others into sin and suffering."
+      },
+      "es": {
+        "question": "¿Por qué la enseñanza de Jesús sobre el adulterio y el divorcio no era solo un asunto privado?",
+        "choices": [
+          "Las bodas no se celebraban en el templo.",
+          "Roma prohibía el matrimonio.",
+          "Algunos hombres despedían injustamente a sus esposas, causando sufrimiento social y corrupción.",
+          "Ningún judío se casaba."
+        ],
+        "explanation": "Algunas mujeres eran repudiadas sin protección adecuada. Jesús señaló el daño social que producen la codicia y la injusticia."
+      }
+    },
+    {
+      "id": "remote-gospels-034",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "예수님께서 “옳다 옳다, 아니라 아니라 하라”고 말씀하신 핵심 이유는 무엇입니까?",
+        "choices": [
+          "대화를 짧게 끝내기 위해서",
+          "중요한 약속을 하지 말라는 뜻에서",
+          "법정에서 증언하지 말라는 뜻에서",
+          "맹세로 자신을 꾸미지 않아도 될 만큼 정직하고 신실하라는 뜻에서"
+        ],
+        "explanation": "신뢰가 있다면 과장된 맹세 없이도 말과 약속이 받아들여집니다. 하나님을 믿는 사람은 하나님 앞에서뿐 아니라 사람 앞에서도 신뢰할 수 있는 사람이 되어야 합니다."
+      },
+      "en": {
+        "question": "Why did Jesus say, “Let your ‘Yes’ be ‘Yes,’ and your ‘No,’ ‘No’”?",
+        "choices": [
+          "To end conversations quickly",
+          "To forbid important promises",
+          "To forbid testimony in court",
+          "To teach people to be so honest and faithful that embellished oaths are unnecessary"
+        ],
+        "explanation": "Trustworthy words do not need exaggerated oaths. Those who believe in God should be dependable before both God and other people."
+      },
+      "es": {
+        "question": "¿Por qué dijo Jesús: «Sea vuestro sí, sí; y vuestro no, no»?",
+        "choices": [
+          "Para terminar pronto las conversaciones",
+          "Para prohibir promesas importantes",
+          "Para prohibir el testimonio judicial",
+          "Para enseñar una honestidad tan firme que no necesite juramentos exagerados"
+        ],
+        "explanation": "Las palabras confiables no necesitan juramentos exagerados. Quien cree en Dios debe ser digno de confianza ante Dios y ante las personas."
+      }
+    },
+    {
+      "id": "remote-gospels-035",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "“오른편 뺨을 치거든 왼편도 돌려 대라”는 말씀을 바르게 이해한 것은 무엇입니까?",
+        "choices": [
+          "믿음 때문에 받는 적대에 보복하지 말고 선의와 인내로 대하라는 뜻이다",
+          "생명이 위험해도 도움을 청하면 안 된다",
+          "범죄와 폭력에 어떤 저항도 해서는 안 된다",
+          "모든 불법적인 요구를 그대로 들어주라는 뜻이다"
+        ],
+        "explanation": "이 말씀은 이유 없는 폭력과 범죄를 무조건 감내하라는 뜻이 아닙니다. 복음과 믿음 때문에 핍박받을 때 보복하지 않고 인내와 용서로 상대를 대하는 인내와 용서의 태도를 가르칩니다."
+      },
+      "en": {
+        "question": "Which interpretation of “If anyone slaps you on the right cheek, turn to them the other also” is correct?",
+        "choices": [
+          "Do not retaliate for hostility suffered because of faith; respond with patience and goodwill.",
+          "Never seek help even when your life is in danger.",
+          "Never resist crime or violence in any way.",
+          "Comply with every unlawful demand."
+        ],
+        "explanation": "This does not command people to endure violence and crime without protection. It teaches patience and forgiveness rather than retaliation when one is persecuted for the gospel and faith."
+      },
+      "es": {
+        "question": "¿Cuál es la interpretación correcta de «Si alguien te golpea en la mejilla derecha, vuélvele también la otra»?",
+        "choices": [
+          "No tomar represalias por la hostilidad sufrida a causa de la fe, sino responder con paciencia y buena voluntad",
+          "Nunca pedir ayuda aunque la vida corra peligro",
+          "No resistir jamás ningún delito o violencia",
+          "Cumplir toda exigencia ilegal"
+        ],
+        "explanation": "El mandato no exige soportar sin protección la violencia criminal. Enseña paciencia y perdón en vez de venganza cuando se sufre por el evangelio."
+      }
+    },
+    {
+      "id": "remote-gospels-036",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "예수님께서 원수까지 사랑하라고 하신 근거는 무엇입니까?",
+        "choices": [
+          "원수도 언젠가는 반드시 보상하기 때문이다",
+          "우리도 하나님의 사랑과 은혜를 받은 존재이기 때문이다",
+          "원수와 가까이 지내야 성공하기 때문이다",
+          "사랑하면 모든 갈등이 즉시 사라지기 때문이다"
+        ],
+        "explanation": "우리는 사랑받을 자격이 있어서가 아니라 하나님의 은혜로 사랑받았습니다. 그러므로 받은 사랑을 다른 사람에게도 나누되, 이용당하는 것을 사랑으로 착각하지 않고 지혜롭게 행해야 합니다."
+      },
+      "en": {
+        "question": "On what basis did Jesus command us to love even our enemies?",
+        "choices": [
+          "Enemies will certainly repay us someday.",
+          "We ourselves have received God's love and grace.",
+          "Friendship with enemies guarantees success.",
+          "Love immediately ends every conflict."
+        ],
+        "explanation": "God loved us by grace, not because we deserved it. We should share that love with others while acting wisely and not confusing love with allowing ourselves to be exploited."
+      },
+      "es": {
+        "question": "¿En qué se basa el mandato de Jesús de amar incluso a nuestros enemigos?",
+        "choices": [
+          "En que algún día nos recompensarán",
+          "En que nosotros también recibimos el amor y la gracia de Dios",
+          "En que relacionarnos con ellos garantiza el éxito",
+          "En que el amor elimina de inmediato todo conflicto"
+        ],
+        "explanation": "Dios nos amó por gracia, no porque lo mereciéramos. Debemos compartir ese amor con sabiduría, sin confundirlo con permitir abusos."
+      }
+    },
+    {
+      "id": "remote-gospels-037",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "예수님께서 구제를 남모르게 하라고 하신 중요한 이유는 무엇입니까?",
+        "choices": [
+          "도움의 액수를 감추기 위해서",
+          "가난한 사람을 만나지 않기 위해서",
+          "도움받는 사람에게 수치심을 주지 않고 하나님을 향한 마음으로 돕기 위해서",
+          "구제는 중요하지 않기 때문에"
+        ],
+        "explanation": "사람에게 보이려는 구제는 자신을 드러내고 도움받는 사람의 어려운 처지를 드러낼 수 있습니다. 참된 구제는 상대의 인격을 보호하며 사람의 칭찬이 아니라 하나님을 기쁘시게 하려는 마음으로 행합니다."
+      },
+      "en": {
+        "question": "Why did Jesus teach that giving to the needy should be done in secret?",
+        "choices": [
+          "To conceal the amount given",
+          "To avoid meeting poor people",
+          "To protect the recipient from shame and give with a heart directed toward God",
+          "Because helping the needy is unimportant"
+        ],
+        "explanation": "Giving for public recognition can glorify the giver and expose the recipient's hardship. True generosity protects the person's dignity and seeks to please God rather than people."
+      },
+      "es": {
+        "question": "¿Por qué enseñó Jesús que la ayuda al necesitado debe hacerse en secreto?",
+        "choices": [
+          "Para ocultar la cantidad",
+          "Para evitar a los pobres",
+          "Para proteger la dignidad del receptor y dar con el corazón puesto en Dios",
+          "Porque ayudar no es importante"
+        ],
+        "explanation": "Dar para recibir reconocimiento puede exaltar al donante y avergonzar al necesitado. La verdadera generosidad protege su dignidad y busca agradar a Dios."
+      }
+    },
+    {
+      "id": "remote-gospels-038",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "하나님께서 우리의 필요를 이미 아시는데도 기도해야 하는 이유는 무엇입니까?",
+        "choices": [
+          "하나님께 필요한 정보를 알려드리기 위해서",
+          "많이 말해야만 하나님께서 들으시기 때문에",
+          "다른 사람에게 믿음을 보여주기 위해서",
+          "받은 것이 하나님의 은혜임을 알고 하나님과의 관계를 지속하기 위해서"
+        ],
+        "explanation": "하나님께서 필요를 아신다는 사실이 기도를 불필요하게 만들지는 않습니다. 기도는 모든 것을 당연한 권리로 여기지 않고 하나님의 은혜를 구하며 그분께 마음을 두는 일입니다."
+      },
+      "en": {
+        "question": "Why should we pray even though God already knows what we need?",
+        "choices": [
+          "To give God information he lacks",
+          "Because God listens only when we speak at length",
+          "To display our faith to others",
+          "To recognize that what we receive is grace and to deepen our relationship with God"
+        ],
+        "explanation": "God's knowledge of our needs does not make prayer unnecessary. Prayer keeps us from treating everything as an entitlement and turns our hearts toward God and his grace."
+      },
+      "es": {
+        "question": "¿Por qué debemos orar si Dios ya conoce nuestras necesidades?",
+        "choices": [
+          "Para darle información",
+          "Porque solo escucha oraciones largas",
+          "Para mostrar nuestra fe a otros",
+          "Para reconocer su gracia y cultivar nuestra relación con él"
+        ],
+        "explanation": "Que Dios conozca nuestras necesidades no hace innecesaria la oración. Orar evita que tratemos todo como un derecho y dirige el corazón hacia Dios."
+      }
+    },
+    {
+      "id": "remote-gospels-039",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "참된 금식의 모습은 무엇입니까?",
+        "choices": [
+          "절박한 문제를 하나님께 맡기며 기도에 집중하는 것",
+          "식사를 하지 않고 평소 생활만 계속하는 것",
+          "오래 굶은 기간을 자랑하는 것",
+          "다른 사람도 함께 금식하도록 강요하는 것"
+        ],
+        "explanation": "금식은 오래 굶는 경쟁이나 신앙을 과시하는 수단이 아닙니다. 매우 절박한 문제를 하나님께 아뢰며 온전히 하나님께 집중하는 것이 참된 금식입니다."
+      },
+      "en": {
+        "question": "What does true fasting look like?",
+        "choices": [
+          "Entrusting an urgent need to God and concentrating on prayer",
+          "Skipping meals while continuing life as usual",
+          "Boasting about how long one has gone without food",
+          "Forcing other people to fast"
+        ],
+        "explanation": "Fasting is neither a contest in hunger nor a display of spirituality. True fasting brings a desperate need before God and focuses the whole heart on him."
+      },
+      "es": {
+        "question": "¿Cómo es el verdadero ayuno?",
+        "choices": [
+          "Encomendar una necesidad urgente a Dios y concentrarse en la oración",
+          "No comer y continuar la vida como siempre",
+          "Presumir del tiempo sin alimento",
+          "Obligar a otros a ayunar"
+        ],
+        "explanation": "El ayuno no es competencia ni exhibición espiritual. Es presentar una necesidad urgente y concentrarse plenamente en Dios."
+      }
+    },
+    {
+      "id": "remote-gospels-040",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "먹을 것과 입을 것을 염려하지 말라는 말씀은 아무 노력도 하지 말라는 뜻이 아닙니다. 그 핵심은 무엇입니까?",
+        "choices": [
+          "필요한 것은 모두 다른 사람이 마련해야 한다",
+          "하나님의 때와 방법을 신뢰하며 그 나라와 의를 먼저 구해야 한다",
+          "미래 계획을 세우면 믿음이 없는 것이다",
+          "재산을 소유하면 구원받을 수 없다"
+        ],
+        "explanation": "믿음은 원하는 때에 원하는 것을 얻는 수단이 아닙니다. 하나님께서 우리의 필요를 아심을 믿고 그분의 때와 방법을 기다리며 무엇보다 하나님 나라와 의를 추구하는 자세입니다."
+      },
+      "en": {
+        "question": "Jesus' command not to worry about food and clothing does not mean making no effort. What is its central message?",
+        "choices": [
+          "Other people must provide everything we need.",
+          "Trust God's timing and method, and seek first his kingdom and righteousness.",
+          "Making plans for the future shows a lack of faith.",
+          "Anyone who owns property cannot be saved."
+        ],
+        "explanation": "Faith is not a means of obtaining what we want when we want it. It trusts that God knows our needs, waits for his timing and way, and seeks his kingdom and righteousness above all."
+      },
+      "es": {
+        "question": "El mandato de no preocuparnos por comida y ropa no significa que no debamos esforzarnos. ¿Cuál es su mensaje central?",
+        "choices": [
+          "Otros deben proveer todo.",
+          "Confiar en el tiempo y el método de Dios y buscar primero su reino y su justicia.",
+          "Planear el futuro demuestra falta de fe.",
+          "Quien posee bienes no puede salvarse."
+        ],
+        "explanation": "La fe no sirve para obtener todo cuando queremos. Confía en que Dios conoce nuestras necesidades y busca ante todo su reino y justicia."
+      }
+    },
+    {
+      "id": "remote-gospels-041",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "다른 사람의 잘못을 바로잡으려 할 때 성경이 권하는 태도는 무엇입니까?",
+        "choices": [
+          "많은 사람 앞에서 잘못을 공개한다",
+          "인격을 공격하며 강하게 비난한다",
+          "상대를 존중하면서 의견과 더 나은 대안을 제시한다",
+          "잘못을 알아도 무조건 모른 척한다"
+        ],
+        "explanation": "사람의 마음을 상하게 하는 비난은 변화를 일으키기보다 반발을 낳기 쉽습니다. 상대를 존중하고 이해하면서 대안을 제시할 때 더 잘 받아들일 수 있습니다."
+      },
+      "en": {
+        "question": "What attitude does Scripture commend when we try to correct another person's fault?",
+        "choices": [
+          "Expose the fault publicly.",
+          "Attack the person's character and condemn them harshly.",
+          "Respect the person while offering our view and a better alternative.",
+          "Always pretend not to notice wrongdoing."
+        ],
+        "explanation": "Condemnation that wounds a person often produces resistance rather than change. Truth is more readily received when we show respect and understanding and offer a constructive alternative."
+      },
+      "es": {
+        "question": "¿Qué actitud recomienda la Biblia al corregir la falta de otra persona?",
+        "choices": [
+          "Exponerla ante todos",
+          "Atacar su carácter con dureza",
+          "Respetarla y ofrecer nuestra opinión y una alternativa mejor",
+          "Fingir siempre que no vimos nada"
+        ],
+        "explanation": "La condena que hiere suele producir resistencia. La verdad se recibe mejor cuando mostramos respeto y ofrecemos una alternativa constructiva."
+      }
+    },
+    {
+      "id": "remote-gospels-042",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "“거룩한 것을 개에게 주지 말라”는 말씀을 복음 전도에 적용한 것으로 알맞은 것은 무엇입니까?",
+        "choices": [
+          "복음을 아무에게도 전하지 않는다",
+          "복음을 전할 때 물질적 조건을 먼저 제시한다",
+          "믿지 않는 사람을 모두 무시한다",
+          "상대를 억지로 믿게 하려고 복음의 가치를 낮추지 않는다"
+        ],
+        "explanation": "복음은 진주보다 귀한 생명의 진리입니다. 상대의 요구를 모두 들어주며 구걸하듯 믿게 하려 하지 말고, 복음의 가치를 소중히 여기며 받아들일 마음이 있는 사람에게 전해야 합니다."
+      },
+      "en": {
+        "question": "How should “Do not give dogs what is sacred” be applied to evangelism?",
+        "choices": [
+          "Never share the gospel with anyone.",
+          "First offer material benefits when sharing the gospel.",
+          "Disregard everyone who does not believe.",
+          "Do not diminish the gospel's value by trying to force someone to believe."
+        ],
+        "explanation": "The gospel is a life-giving truth more precious than pearls. We should value it and share it with receptive people rather than begging for belief by meeting every demand."
+      },
+      "es": {
+        "question": "¿Cómo debe aplicarse a la evangelización la frase «No deis lo santo a los perros»?",
+        "choices": [
+          "No compartir el evangelio con nadie",
+          "Ofrecer primero ventajas materiales",
+          "Despreciar a todos los incrédulos",
+          "No rebajar el valor del evangelio intentando obligar a alguien a creer"
+        ],
+        "explanation": "El evangelio es una verdad de vida más preciosa que las perlas. Debemos valorarlo y compartirlo sin mendigar la aceptación."
+      }
+    },
+    {
+      "id": "remote-gospels-043",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "기도가 응답되지 않는 것처럼 보일 때 먼저 살펴야 할 것은 무엇입니까?",
+        "choices": [
+          "구하는 내용이 하나님의 뜻에 맞는지와 하나님의 때를 기다리는지",
+          "더 큰 소리로 기도했는지",
+          "기도 장소가 유명한 곳인지",
+          "다른 사람이 같은 기도를 했는지"
+        ],
+        "explanation": "정욕을 위해 잘못 구했거나 아직 하나님의 때가 이르지 않았을 수 있습니다. 무응답처럼 보일 때 원망하기보다 자신이 구하는 내용과 방향을 살피고 하나님의 뜻과 때를 기다려야 합니다."
+      },
+      "en": {
+        "question": "What should we examine first when prayer seems unanswered?",
+        "choices": [
+          "Whether our request agrees with God's will and whether we are waiting for his timing",
+          "Whether we prayed loudly enough",
+          "Whether we prayed in a famous place",
+          "Whether someone else prayed the same prayer"
+        ],
+        "explanation": "We may have asked from selfish desire, or God's time may not yet have come. Instead of resenting apparent silence, we should examine our request and wait for God's will and timing."
+      },
+      "es": {
+        "question": "¿Qué debemos examinar primero cuando la oración parece no recibir respuesta?",
+        "choices": [
+          "Si nuestra petición concuerda con la voluntad de Dios y si esperamos su tiempo",
+          "Si oramos suficientemente fuerte",
+          "Si el lugar era famoso",
+          "Si otra persona pidió lo mismo"
+        ],
+        "explanation": "Tal vez pedimos con egoísmo o aún no ha llegado el tiempo de Dios. Debemos examinar la petición y esperar su voluntad y su tiempo."
+      }
+    },
+    {
+      "id": "remote-gospels-044",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "“남에게 대접받고자 하는 대로 너희도 남을 대접하라”는 말씀을 실천하는 첫걸음은 무엇입니까?",
+        "choices": [
+          "다른 사람에게 먼저 대접을 요구하는 것",
+          "자신이 받은 재능과 복이 무엇인지 헤아리는 것",
+          "자신에게 없는 것만 생각하는 것",
+          "모든 재산을 한 사람에게 주는 것"
+        ],
+        "explanation": "하나님은 각 사람에게 서로 다른 재능과 여건을 허락하셨습니다. 자신에게 주어진 것이 무엇인지 알고 그것을 다른 사람을 위해 나눌 때 서로의 부족함을 채울 수 있습니다."
+      },
+      "en": {
+        "question": "What is the first step in practicing “Do to others what you would have them do to you”?",
+        "choices": [
+          "Demand that others treat us well first.",
+          "Recognize the gifts and blessings we have received.",
+          "Think only about what we lack.",
+          "Give all our possessions to one person."
+        ],
+        "explanation": "God gives different abilities and circumstances to each person. When we recognize what we have and share it with others, we can help supply one another's needs."
+      },
+      "es": {
+        "question": "¿Cuál es el primer paso para practicar «Tratad a los demás como queréis que ellos os traten»?",
+        "choices": [
+          "Exigir primero buen trato",
+          "Reconocer los dones y bendiciones recibidos",
+          "Pensar solo en lo que nos falta",
+          "Dar todos los bienes a una sola persona"
+        ],
+        "explanation": "Dios da capacidades y circunstancias diferentes. Al reconocer y compartir lo recibido, podemos suplir las necesidades de otros."
+      }
+    },
+    {
+      "id": "remote-gospels-045",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "좁은 문으로 들어가라는 말씀과 거짓 선지자에 대한 경고가 함께 주는 교훈은 무엇입니까?",
+        "choices": [
+          "많은 사람이 선택한 길은 언제나 옳다",
+          "기적을 행하면 모두 참된 선지자다",
+          "말과 외형만 보지 말고 열매를 통해 믿음의 진실성을 분별해야 한다",
+          "교회 지도자는 판단해서는 안 된다"
+        ],
+        "explanation": "넓고 쉬운 길을 많은 사람이 선택한다고 해서 생명의 길인 것은 아닙니다. 신앙적인 말이나 직분만 보지 말고 실제 삶에서 나타나는 열매를 통해 바른 길인지 분별해야 합니다."
+      },
+      "en": {
+        "question": "What combined lesson comes from the command to enter through the narrow gate and the warning about false prophets?",
+        "choices": [
+          "The path chosen by the majority is always right.",
+          "Anyone who performs miracles is a true prophet.",
+          "Do not judge only by words and appearances; discern genuine faith by its fruit.",
+          "Church leaders must never be evaluated."
+        ],
+        "explanation": "A broad and easy road is not necessarily the way of life. We must look beyond religious words and positions and discern the truth by the fruit shown in a person's life."
+      },
+      "es": {
+        "question": "¿Qué enseñanza conjunta dan la puerta estrecha y la advertencia sobre falsos profetas?",
+        "choices": [
+          "El camino de la mayoría siempre es correcto.",
+          "Todo el que hace milagros es profeta verdadero.",
+          "No juzgar solo por palabras y apariencias, sino discernir la fe por sus frutos.",
+          "Nunca debe evaluarse a un dirigente religioso."
+        ],
+        "explanation": "Un camino amplio y fácil no siempre conduce a la vida. Debemos mirar los frutos reales, no solo las palabras o los cargos religiosos."
+      }
+    },
+    {
+      "id": "remote-gospels-046",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "로마 백부장의 믿음을 예수님께서 크게 칭찬하신 이유는 무엇입니까?",
+        "choices": [
+          "유대인의 모든 율법을 지켰기 때문에",
+          "많은 헌금을 드렸기 때문에",
+          "직접 병자를 데리고 왔기 때문에",
+          "예수님께서 말씀만 하셔도 하인이 나을 것을 믿었기 때문에"
+        ],
+        "explanation": "백부장은 자신도 권위 아래 있는 사람임을 알았기에 예수님의 말씀에 병을 다스리는 권위가 있음을 믿었습니다. 예수님을 직접 모실 자격조차 없다고 여긴 겸손과 말씀에 대한 신뢰가 큰 믿음으로 나타났습니다."
+      },
+      "en": {
+        "question": "Why did Jesus highly praise the faith of the Roman centurion?",
+        "choices": [
+          "He kept every Jewish law.",
+          "He gave a large offering.",
+          "He brought the sick servant in person.",
+          "He believed that Jesus' word alone could heal his servant."
+        ],
+        "explanation": "The centurion understood authority and trusted Jesus' authority over sickness. His humility and confidence in Jesus' word revealed great faith."
+      },
+      "es": {
+        "question": "¿Por qué elogió Jesús la fe del centurión romano?",
+        "choices": [
+          "Guardaba toda la ley judía.",
+          "Dio una gran ofrenda.",
+          "Llevó personalmente al siervo enfermo.",
+          "Creyó que una sola palabra de Jesús sanaría a su siervo."
+        ],
+        "explanation": "El centurión entendía la autoridad y confió en la autoridad de Jesús sobre la enfermedad. Su humildad y confianza revelaron una gran fe."
+      }
+    },
+    {
+      "id": "remote-gospels-047",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "나인성 과부의 외아들을 살리신 사건에서 특별히 드러나는 예수님의 마음은 무엇입니까?",
+        "choices": [
+          "요청받기 전에 고통받는 사람을 불쌍히 여기시는 긍휼",
+          "죽은 사람에게 책임을 묻는 공의",
+          "장례 절차를 바꾸려는 의지",
+          "많은 사람에게 능력을 자랑하려는 마음"
+        ],
+        "explanation": "과부는 예수님께 아들을 살려달라고 먼저 요청하지 않았습니다. 예수님께서 그녀의 절망적인 형편을 보시고 불쌍히 여기셔서 먼저 은혜를 베푸셨습니다."
+      },
+      "en": {
+        "question": "What aspect of Jesus' heart is especially revealed when he raised the only son of the widow of Nain?",
+        "choices": [
+          "Compassion that notices suffering and acts before being asked",
+          "Justice that blames the dead",
+          "A desire to change funeral customs",
+          "A desire to display his power"
+        ],
+        "explanation": "The widow did not first ask Jesus to restore her son. Jesus saw her desperate condition, had compassion on her, and took the initiative to show grace."
+      },
+      "es": {
+        "question": "¿Qué aspecto del corazón de Jesús se revela al resucitar al hijo único de la viuda de Naín?",
+        "choices": [
+          "Compasión que ve el sufrimiento y actúa antes de que se lo pidan",
+          "Justicia que culpa al muerto",
+          "Deseo de cambiar los funerales",
+          "Deseo de exhibir su poder"
+        ],
+        "explanation": "La viuda no pidió primero el milagro. Jesús vio su desesperación, tuvo compasión y tomó la iniciativa de mostrarle gracia."
+      }
+    },
+    {
+      "id": "remote-gospels-048",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "옥에 갇힌 세례 요한이 예수님께 “오실 그이가 당신입니까?”라고 물었을 때 예수님은 무엇으로 답하셨습니까?",
+        "choices": [
+          "정치적 승리를 약속하셨다",
+          "행하신 일과 복음의 열매를 통해 메시아이심을 보여주셨다",
+          "요한을 즉시 감옥에서 구하셨다",
+          "새로운 표적을 요구하셨다"
+        ],
+        "explanation": "예수님은 말로만 자신을 주장하지 않고 병든 자가 고침받고 가난한 자에게 복음이 전해지는 일을 보라고 하셨습니다. 참된 믿음은 말이나 주장보다 실제 열매를 통해 드러납니다."
+      },
+      "en": {
+        "question": "When John the Baptist asked from prison, “Are you the one who is to come?” how did Jesus answer?",
+        "choices": [
+          "He promised political victory.",
+          "He showed that he was the Messiah through his works and the fruit of the gospel.",
+          "He immediately freed John from prison.",
+          "He demanded a new sign."
+        ],
+        "explanation": "Rather than merely making a claim, Jesus pointed to the healing of the sick and the preaching of good news to the poor. Genuine faith is shown by real fruit, not words alone."
+      },
+      "es": {
+        "question": "Cuando Juan el Bautista preguntó desde la cárcel «¿Eres tú el que había de venir?», ¿cómo respondió Jesús?",
+        "choices": [
+          "Prometió una victoria política.",
+          "Mostró que era el Mesías mediante sus obras y los frutos del evangelio.",
+          "Liberó inmediatamente a Juan.",
+          "Exigió una señal nueva."
+        ],
+        "explanation": "Jesús señaló la sanidad de los enfermos y las buenas noticias para los pobres. La fe verdadera se reconoce por frutos reales, no solo por afirmaciones."
+      }
+    },
+    {
+      "id": "remote-gospels-049",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "바리새인 시몬의 집에서 죄 많은 여인이 예수님의 발에 향유를 부은 사건이 보여주는 것은 무엇입니까?",
+        "choices": [
+          "눈물을 흘리면 모든 죄가 자동으로 사라진다",
+          "값비싼 선물을 드려야 죄 사함을 받는다",
+          "용서받은 은혜를 깊이 아는 사람일수록 사랑과 감사가 크게 나타난다",
+          "사람의 과거는 절대로 바뀌지 않는다"
+        ],
+        "explanation": "여인의 행동은 용서를 위한 대가가 아니라 이미 받은 은혜에 대한 사랑과 감사의 표현이었습니다. 자신이 얼마나 큰 은혜를 받았는지 아는 사람에게 사랑도 크게 나타납니다."
+      },
+      "en": {
+        "question": "What does the sinful woman's anointing of Jesus' feet in Simon the Pharisee's house demonstrate?",
+        "choices": [
+          "Tears automatically erase every sin.",
+          "Forgiveness requires an expensive gift.",
+          "The more deeply people understand the grace of forgiveness, the greater their love and gratitude.",
+          "A person's past can never change."
+        ],
+        "explanation": "Her action was not payment for forgiveness but an expression of love and gratitude for grace already received. Those who understand how much grace they have received show deep love."
+      },
+      "es": {
+        "question": "¿Qué muestra la mujer pecadora que ungió los pies de Jesús en casa del fariseo Simón?",
+        "choices": [
+          "Las lágrimas borran automáticamente todo pecado.",
+          "El perdón exige un regalo costoso.",
+          "Cuanto más se comprende la gracia del perdón, mayores son el amor y la gratitud.",
+          "El pasado nunca puede cambiar."
+        ],
+        "explanation": "Su acto no compró el perdón; expresó amor y gratitud por la gracia ya recibida. Quien comprende la gracia recibida muestra un amor profundo."
+      }
+    },
+    {
+      "id": "remote-gospels-050",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "마가복음 3장에 예수님께서 “누가 내 어머니이며 내 형제냐”고 하시며 가르치신 영적 가족의 기준은 무엇입니까?",
+        "choices": [
+          "같은 혈통과 민족",
+          "같은 지역에 사는 관계",
+          "오랫동안 알고 지낸 관계",
+          "하나님의 말씀을 듣고 뜻대로 행하는 관계"
+        ],
+        "explanation": "예수님은 혈연을 무시하신 것이 아니라 하나님 나라의 가족이 되는 근본적인 기준을 밝히셨습니다. 하나님의 뜻을 듣고 행하는 사람들이 믿음 안에서 영적 가족이 됩니다."
+      },
+      "en": {
+        "question": "In Mark 3, when Jesus asked, “Who are my mother and my brothers?” what did he teach is the basis for belonging to his spiritual family?",
+        "choices": [
+          "Sharing the same bloodline and ethnicity",
+          "Living in the same region",
+          "Knowing one another for a long time",
+          "Hearing God's word and doing his will"
+        ],
+        "explanation": "Jesus did not reject family ties; he revealed the fundamental standard for God's family. Those who hear and obey God's will become spiritual family through faith."
+      },
+      "es": {
+        "question": "En Marcos 3, cuando Jesús preguntó: «¿Quiénes son mi madre y mis hermanos?», ¿qué enseñó acerca del criterio para pertenecer a su familia espiritual?",
+        "choices": [
+          "La misma sangre y etnia",
+          "Vivir en la misma región",
+          "Conocerse desde hace mucho",
+          "Oír la palabra de Dios y hacer su voluntad"
+        ],
+        "explanation": "Jesús no rechazó los lazos familiares, sino que mostró el criterio fundamental de la familia de Dios. Quienes oyen y obedecen su voluntad son familia en la fe."
+      }
+    },
+    {
+      "id": "remote-gospels-051",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "씨 뿌리는 비유에서 같은 씨가 서로 다른 결과를 낸 이유는 무엇입니까?",
+        "choices": [
+          "말씀을 받아들이는 사람의 마음 상태가 달랐기 때문이다",
+          "씨를 뿌린 사람의 능력이 달랐기 때문이다",
+          "씨의 종류가 모두 달랐기 때문이다",
+          "계절이 맞지 않았기 때문이다"
+        ],
+        "explanation": "씨는 동일한 하나님의 말씀이지만 길가, 돌밭, 가시떨기, 좋은 땅은 말씀을 받아들이는 서로 다른 마음을 가리킵니다. 말씀을 듣는 것에 그치지 않고 마음에 간직하여 열매 맺어야 합니다."
+      },
+      "en": {
+        "question": "Why did the same seed produce different results in the parable of the sower?",
+        "choices": [
+          "The conditions of the hearers' hearts were different.",
+          "The sowers had different levels of skill.",
+          "Every seed was a different kind.",
+          "It was the wrong season."
+        ],
+        "explanation": "The seed is the same word of God, while the path, rocky ground, thorns, and good soil represent different hearts. We must not only hear the word but retain it and bear fruit."
+      },
+      "es": {
+        "question": "¿Por qué la misma semilla produjo resultados diferentes en la parábola del sembrador?",
+        "choices": [
+          "Porque era diferente la condición del corazón de los oyentes",
+          "Porque variaba la habilidad de los sembradores",
+          "Porque todas las semillas eran distintas",
+          "Porque no era la estación adecuada"
+        ],
+        "explanation": "La semilla es la misma palabra de Dios; los distintos terrenos representan diferentes corazones. Debemos recibir la palabra y dar fruto."
+      }
+    },
+    {
+      "id": "remote-gospels-052",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "예수님께서 풍랑 속에서 두려워하는 제자들에게 “어찌하여 무서워하느냐”고 하신 이유는 무엇입니까?",
+        "choices": [
+          "바다에는 원래 풍랑이 없기 때문에",
+          "예수님께서 함께 계심에도 상황만 보고 믿음을 잃었기 때문에",
+          "제자들이 배를 잘못 골랐기 때문에",
+          "밤에 항해해서는 안 되기 때문에"
+        ],
+        "explanation": "제자들은 예수님이 배에 함께 계셨지만 거센 풍랑만 바라보며 죽게 되었다고 두려워했습니다. 믿음은 위험이 없다고 생각하는 것이 아니라 위험 속에서도 주님을 신뢰하는 것입니다."
+      },
+      "en": {
+        "question": "Why did Jesus ask the frightened disciples in the storm, “Why are you afraid?”",
+        "choices": [
+          "Storms never occur on that sea.",
+          "Although Jesus was with them, they looked only at the circumstances and lost faith.",
+          "They had chosen the wrong boat.",
+          "Sailing at night was forbidden."
+        ],
+        "explanation": "Although Jesus was in the boat, the disciples focused on the violent storm and feared they would die. Faith does not deny danger; it trusts the Lord in the midst of danger."
+      },
+      "es": {
+        "question": "¿Por qué preguntó Jesús a los discípulos asustados durante la tormenta «¿Por qué teméis?»?",
+        "choices": [
+          "Porque nunca hay tormentas en aquel mar",
+          "Porque, aunque Jesús estaba con ellos, solo miraron las circunstancias y perdieron la fe",
+          "Porque eligieron el barco equivocado",
+          "Porque estaba prohibido navegar de noche"
+        ],
+        "explanation": "Aunque Jesús estaba en la barca, los discípulos miraron solo la tormenta. La fe no niega el peligro; confía en el Señor dentro de él."
+      }
+    },
+    {
+      "id": "remote-gospels-053",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "가다라 지방에서 귀신 들렸던 사람이 고침받은 후 예수님께서 그에게 하라고 하신 일은 무엇입니까?",
+        "choices": [
+          "즉시 제자들과 함께 떠나는 것",
+          "아무에게도 말하지 않는 것",
+          "집으로 돌아가 하나님께서 행하신 일을 전하는 것",
+          "광야에서 혼자 지내는 것"
+        ],
+        "explanation": "그는 예수님을 따르기를 원했지만 예수님은 가족과 이웃에게 돌아가 받은 은혜를 전하게 하셨습니다. 복음 증거는 멀리 떠나는 일만이 아니라 자신이 살아가는 자리에서 시작될 수 있습니다."
+      },
+      "en": {
+        "question": "After healing the demon-possessed man in the region of the Gadarenes, what did Jesus tell him to do?",
+        "choices": [
+          "Leave immediately with the disciples",
+          "Tell no one",
+          "Return home and tell what God had done for him",
+          "Live alone in the wilderness"
+        ],
+        "explanation": "The man wanted to follow Jesus, but Jesus sent him back to his family and neighbors to share the grace he had received. Witnessing begins not only far away but also where we live."
+      },
+      "es": {
+        "question": "Después de sanar al endemoniado de la región de los gadarenos, ¿qué le mandó Jesús?",
+        "choices": [
+          "Marcharse con los discípulos",
+          "No contárselo a nadie",
+          "Volver a casa y contar lo que Dios había hecho",
+          "Vivir solo en el desierto"
+        ],
+        "explanation": "El hombre quería seguir a Jesús, pero fue enviado a compartir la gracia recibida con su familia y vecinos. El testimonio también comienza donde vivimos."
+      }
+    },
+    {
+      "id": "remote-gospels-054",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "혈루증을 앓던 여인과 야이로의 딸 사건에서 공통으로 강조되는 것은 무엇입니까?",
+        "choices": [
+          "사회적 지위가 높아야 도움받을 수 있다",
+          "많은 사람이 함께 있어야 기적이 일어난다",
+          "질병은 반드시 같은 방법으로 치료된다",
+          "절망적인 상황에서도 예수님을 믿고 나아가는 믿음이 중요하다"
+        ],
+        "explanation": "오랫동안 병을 앓은 여인과 죽음 앞에 선 야이로의 가정은 인간적으로는 소망을 찾기 어려운 상황이었습니다. 그러나 예수님께 나아가는 믿음은 절망을 넘어 치유와 생명의 은혜를 경험하게 했습니다."
+      },
+      "en": {
+        "question": "What common theme is emphasized in the accounts of the woman with the flow of blood and Jairus's daughter?",
+        "choices": [
+          "Only people of high social standing can receive help.",
+          "A miracle requires a large crowd.",
+          "Every illness must be healed in the same way.",
+          "Even in hopeless circumstances, it is important to approach Jesus in faith."
+        ],
+        "explanation": "Humanly speaking, neither the long-suffering woman nor Jairus's family facing death had reason for hope. Yet faith that came to Jesus experienced healing and life beyond despair."
+      },
+      "es": {
+        "question": "¿Qué tema común se destaca en la mujer con flujo de sangre y la hija de Jairo?",
+        "choices": [
+          "Solo las personas de posición alta reciben ayuda.",
+          "Un milagro necesita una multitud.",
+          "Toda enfermedad se sana del mismo modo.",
+          "Aun en circunstancias desesperadas, es importante acercarse a Jesús con fe."
+        ],
+        "explanation": "Humanamente, ambas situaciones parecían sin esperanza. Sin embargo, la fe que se acercó a Jesús experimentó sanidad y vida."
+      }
+    },
+    {
+      "id": "remote-gospels-055",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "예수님께서 열두 제자를 파송하실 때 많은 물품을 준비하지 말라고 하신 뜻은 무엇입니까?",
+        "choices": [
+          "자신의 준비보다 하나님의 공급과 인도를 의지하게 하기 위해서",
+          "여행 계획을 세우면 안 되기 때문에",
+          "전도자는 가난해야만 구원받기 때문에",
+          "누구의 도움도 받지 말라는 뜻에서"
+        ],
+        "explanation": "제자들은 가진 물질과 인간적인 조건이 아니라 주님의 권능과 공급을 의지해야 했습니다. 사역의 중심은 많은 준비물이 아니라 하나님께 대한 믿음과 순종입니다."
+      },
+      "en": {
+        "question": "Why did Jesus tell the twelve disciples not to take many supplies when he sent them out?",
+        "choices": [
+          "To teach them to depend on God's provision and guidance rather than their own preparations",
+          "Because making travel plans is wrong",
+          "Because an evangelist must be poor to be saved",
+          "To forbid them from receiving anyone's help"
+        ],
+        "explanation": "The disciples were to rely on the Lord's power and provision rather than possessions or human conditions. Faith and obedience to God, not abundant equipment, are central to ministry."
+      },
+      "es": {
+        "question": "¿Por qué dijo Jesús a los doce que no llevaran muchas provisiones?",
+        "choices": [
+          "Para enseñarles a depender de la provisión y dirección de Dios",
+          "Porque planear viajes es malo",
+          "Porque un evangelista debe ser pobre para salvarse",
+          "Para prohibirles recibir ayuda"
+        ],
+        "explanation": "Debían depender del poder y la provisión del Señor, no de sus posesiones. La fe y la obediencia son el centro del ministerio."
+      }
+    },
+    {
+      "id": "remote-gospels-056",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "세례 요한의 죽음으로 이어진 헤롯의 잘못된 선택에서 배울 교훈은 무엇입니까?",
+        "choices": [
+          "약속은 내용과 상관없이 반드시 지켜야 한다",
+          "체면과 사람들의 시선 때문에 더 큰 죄를 선택해서는 안 된다",
+          "권력자는 누구의 조언도 들으면 안 된다",
+          "잔치를 열면 판단력이 좋아진다"
+        ],
+        "explanation": "헤롯은 자신의 맹세와 손님들 앞에서의 체면 때문에 옳지 않음을 알면서도 세례 요한을 죽였습니다. 잘못된 약속과 체면을 지키는 것보다 잘못을 멈추고 돌이키는 것이 옳습니다."
+      },
+      "en": {
+        "question": "What lesson can be learned from Herod's wrong choice that led to the death of John the Baptist?",
+        "choices": [
+          "Every promise must be kept regardless of its content.",
+          "We must not choose a greater sin merely to save face or satisfy public opinion.",
+          "A ruler should never listen to advice.",
+          "Holding a banquet improves judgment."
+        ],
+        "explanation": "Herod knew it was wrong, yet killed John because of his oath and his pride before his guests. It is right to stop and repent rather than preserve a sinful promise and one's reputation."
+      },
+      "es": {
+        "question": "¿Qué aprendemos de la mala decisión de Herodes que causó la muerte de Juan el Bautista?",
+        "choices": [
+          "Toda promesa debe cumplirse sin importar su contenido.",
+          "No debemos elegir un pecado mayor para salvar las apariencias o agradar a otros.",
+          "Un gobernante nunca debe escuchar consejos.",
+          "Un banquete mejora el juicio."
+        ],
+        "explanation": "Herodes sabía que era malo, pero mató a Juan por su juramento y su orgullo ante los invitados. Es mejor detenerse y arrepentirse que mantener una promesa pecaminosa."
+      }
+    },
+    {
+      "id": "remote-gospels-057",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "물 위를 걷던 베드로가 빠지기 시작한 직접적인 이유는 무엇입니까?",
+        "choices": [
+          "예수님의 명령을 듣지 못해서",
+          "다른 제자들이 방해했기 때문에",
+          "바람과 파도를 바라보며 두려워했기 때문에",
+          "수영을 할 줄 몰랐기 때문에"
+        ],
+        "explanation": "베드로가 예수님을 바라볼 때에는 물 위를 걸었지만 거센 바람을 보고 두려워하자 빠졌습니다. 믿음의 시선을 주님에게서 환경으로 옮길 때 두려움과 의심이 커질 수 있음을 보여줍니다."
+      },
+      "en": {
+        "question": "What directly caused Peter to begin sinking while walking on the water?",
+        "choices": [
+          "He did not hear Jesus' command.",
+          "The other disciples interfered.",
+          "He looked at the wind and waves and became afraid.",
+          "He did not know how to swim."
+        ],
+        "explanation": "Peter walked on the water while looking at Jesus, but began to sink when he saw the fierce wind and became afraid. Fear and doubt grow when our focus shifts from the Lord to our circumstances."
+      },
+      "es": {
+        "question": "¿Qué hizo que Pedro comenzara a hundirse mientras caminaba sobre el agua?",
+        "choices": [
+          "No oyó el mandato de Jesús.",
+          "Los demás discípulos lo estorbaron.",
+          "Miró el viento y las olas y tuvo miedo.",
+          "No sabía nadar."
+        ],
+        "explanation": "Pedro caminó mientras miraba a Jesús, pero se hundió al fijarse en el fuerte viento. El temor crece cuando apartamos la mirada del Señor."
+      }
+    },
+    {
+      "id": "remote-gospels-058",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "바리새인들이 장로들의 전통으로 제자들을 비난했을 때 예수님께서 지적하신 근본 문제는 무엇입니까?",
+        "choices": [
+          "손 씻는 방법을 몰랐다는 점",
+          "이방인의 문화를 따르지 않은 점",
+          "율법을 너무 적게 만들었다는 점",
+          "하나님의 뜻보다 사람의 전통을 앞세우며 자기 의에 빠진 점"
+        ],
+        "explanation": "그들은 전통을 이용해 남을 정죄하면서도 고르반(하나님께 드리는 예물) 같은 핑계로 부모를 섬기라는 하나님의 뜻은 저버렸습니다. 자기 의는 자신의 죄를 보지 못하게 하고 하나님의 은혜를 거부하게 합니다."
+      },
+      "en": {
+        "question": "What fundamental problem did Jesus identify when the Pharisees criticized his disciples according to the tradition of the elders?",
+        "choices": [
+          "They did not know how to wash their hands.",
+          "They did not follow Gentile culture.",
+          "They had made too few laws.",
+          "They placed human tradition above God's will and became self-righteous."
+        ],
+        "explanation": "They condemned others by tradition while using excuses such as Corban(Offering to God) to ignore God's command to honor parents. Self-righteousness blinds people to their own sin and makes them reject grace."
+      },
+      "es": {
+        "question": "¿Qué problema fundamental señaló Jesús cuando los fariseos criticaron a sus discípulos según la tradición de los ancianos?",
+        "choices": [
+          "No sabían lavarse las manos.",
+          "No seguían la cultura gentil.",
+          "Habían creado muy pocas leyes.",
+          "Ponían la tradición humana por encima de la voluntad de Dios y caían en la justicia propia."
+        ],
+        "explanation": "Condenaban a otros por la tradición, pero usaban excusas como el Corbán(Ofrenda a Dios) para ignorar el mandato de honrar a los padres. La justicia propia impide ver el propio pecado y recibir la gracia."
+      }
+    },
+    {
+      "id": "remote-gospels-059",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "수로보니게 여인이 두 번의 거절에도 간구를 멈추지 않은 모습에서 강조되는 믿음은 무엇입니까?",
+        "choices": [
+          "낮은 마음과 간절함으로 은혜를 끝까지 구하는 믿음",
+          "자신의 권리를 강하게 주장하는 믿음",
+          "다른 사람보다 우월함을 증명하는 믿음",
+          "표적을 먼저 요구하는 믿음"
+        ],
+        "explanation": "여인은 자신을 낮추면서 주인의 상에서 떨어지는 부스러기라도 구했습니다. 하나님의 은혜를 구하는 데 필요한 것은 자격에 대한 주장보다 낮고 갈급한 마음입니다."
+      },
+      "en": {
+        "question": "What kind of faith did the Syrophoenician woman show by continuing to plead after being refused twice?",
+        "choices": [
+          "Faith that humbly and earnestly seeks grace to the end",
+          "Faith that strongly asserts personal rights",
+          "Faith that proves superiority over others",
+          "Faith that first demands a sign"
+        ],
+        "explanation": "She humbled herself and asked even for the crumbs beneath the master's table. Grace is sought not by claiming worthiness but with a humble and hungry heart."
+      },
+      "es": {
+        "question": "¿Qué clase de fe mostró la mujer sirofenicia al seguir rogando después de dos negativas?",
+        "choices": [
+          "Una fe humilde que busca la gracia con fervor hasta el final",
+          "Una fe que exige sus derechos",
+          "Una fe que demuestra superioridad",
+          "Una fe que primero exige una señal"
+        ],
+        "explanation": "Se humilló y pidió incluso las migajas bajo la mesa. La gracia se busca con humildad y hambre espiritual, no alegando méritos."
+      }
+    },
+    {
+      "id": "remote-gospels-060",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "예수님께서 귀먹고 말이 어눌한 사람의 귀와 혀에 손을 대신 이유는 무엇입니까?",
+        "choices": [
+          "예수님의 말씀만으로는 고칠 수 없어서",
+          "치료받는 사람의 마음에 믿음과 기대를 일으키기 위해서",
+          "당시의 주문을 따르기 위해서",
+          "제자들에게 의술을 가르치기 위해서"
+        ],
+        "explanation": "그 행위 자체에 치료 효과가 있어서가 아니라 병자에게 자신이 치료받고 있다는 믿음과 기대를 일으키기 위한 것이었습니다. 믿음은 계기와 과정을 통해 자라 확신에 이를 수 있습니다."
+      },
+      "en": {
+        "question": "Why did Jesus touch the ears and tongue of the man who was deaf and had difficulty speaking?",
+        "choices": [
+          "Jesus' word alone was unable to heal him.",
+          "To awaken faith and expectation in the man being healed",
+          "To follow a customary incantation",
+          "To teach medicine to the disciples"
+        ],
+        "explanation": "The gestures had no healing power in themselves; they helped the man understand and expect what Jesus was doing. Faith can grow through a process until it becomes assurance."
+      },
+      "es": {
+        "question": "¿Por qué tocó Jesús los oídos y la lengua del hombre que era sordo y tenía dificultad para hablar?",
+        "choices": [
+          "Porque su palabra no podía sanarlo",
+          "Para despertar fe y expectativa en el enfermo",
+          "Para seguir un encantamiento",
+          "Para enseñar medicina"
+        ],
+        "explanation": "Los gestos no sanaban por sí mismos; ayudaron al hombre a comprender y esperar la obra de Jesús. La fe puede crecer mediante un proceso."
+      }
+    },
+    {
+      "id": "remote-gospels-061",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "칠병이어 사건이 이방 지역에서 일어난 사실이 보여주는 것은 무엇입니까?",
+        "choices": [
+          "하나님의 은혜는 유대인에게만 주어진다",
+          "음식이 많아야만 복음을 전할 수 있다",
+          "하나님의 은혜는 민족의 차별없이 이방인에게도 미친다",
+          "제자들은 언제나 예수님의 뜻을 정확히 알았다"
+        ],
+        "explanation": "수로보니게 여인의 딸을 고치신 사건에 이어 이방인 무리를 먹이신 일은 은혜가 특정 민족에만 갇히지 않음을 보여줍니다. 자신의 선입견을 내려놓고 하나님의 넓은 뜻을 살펴야 합니다."
+      },
+      "en": {
+        "question": "What is shown by the feeding of the four thousand taking place in a Gentile region?",
+        "choices": [
+          "God's grace is given only to Jews.",
+          "The gospel can be preached only when there is abundant food.",
+          "God's grace reaches Gentiles without ethnic discrimination.",
+          "The disciples always understood Jesus perfectly."
+        ],
+        "explanation": "Together with the healing of the Syrophoenician woman's daughter, this event shows that grace is not confined to one people. We must lay down prejudice and seek God's wider purpose."
+      },
+      "es": {
+        "question": "¿Qué muestra que la alimentación de los cuatro mil ocurriera en una región gentil?",
+        "choices": [
+          "La gracia de Dios es solo para los judíos.",
+          "El evangelio requiere abundante comida.",
+          "La gracia de Dios alcanza también a los gentiles sin discriminación étnica.",
+          "Los discípulos siempre entendieron a Jesús."
+        ],
+        "explanation": "Junto con la sanidad de la hija sirofenicia, este hecho muestra que la gracia no queda limitada a un pueblo. Debemos abandonar los prejuicios."
+      }
+    },
+    {
+      "id": "remote-gospels-062",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "예수님께서 바리새인과 사두개인에게 “요나의 표적”밖에는 보일 표적이 없다고 하신 뜻은 무엇입니까?",
+        "choices": [
+          "요나가 다시 나타날 것이라는 뜻",
+          "바다에서만 표적을 행하신다는 뜻",
+          "모든 기적을 즉시 중단하신다는 뜻",
+          "예수님의 죽음과 부활이 결정적인 표적이 된다는 뜻"
+        ],
+        "explanation": "요나가 물고기 뱃속에 있다가 나온 사건처럼 예수님께서 죽으시고 부활하실 것을 가리킵니다. 호기심을 채우는 기적보다 죄와 사망을 이긴 부활이 가장 분명한 표적입니다."
+      },
+      "en": {
+        "question": "What did Jesus mean when he told the Pharisees and Sadducees that no sign would be given except the sign of Jonah?",
+        "choices": [
+          "Jonah would appear again.",
+          "Jesus would perform signs only at sea.",
+          "He would immediately stop every miracle.",
+          "Jesus' death and resurrection would be the decisive sign."
+        ],
+        "explanation": "As Jonah emerged after being in the fish, Jesus would die and rise again. The resurrection's victory over sin and death is a clearer sign than miracles that merely satisfy curiosity."
+      },
+      "es": {
+        "question": "¿Qué quiso decir Jesús al afirmar que no se daría otra señal que la de Jonás?",
+        "choices": [
+          "Jonás volvería a aparecer.",
+          "Jesús haría señales solo en el mar.",
+          "Dejaría de hacer milagros inmediatamente.",
+          "Su muerte y resurrección serían la señal decisiva."
+        ],
+        "explanation": "Así como Jonás salió del pez, Jesús moriría y resucitaría. La victoria sobre el pecado y la muerte es la señal más clara."
+      }
+    },
+    {
+      "id": "remote-gospels-063",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "베드로가 “주는 그리스도시요 살아 계신 하나님의 아들”이라고 고백한 내용이 교회의 본질과 연결되는 이유는 무엇입니까?",
+        "choices": [
+          "교회는 예수님을 그리스도로 믿고 증거하는 사람들의 믿음 위에 세워지기 때문이다",
+          "교회는 건물이 크면 세워지기 때문이다",
+          "베드로만 교회를 다닐 수 있기 때문이다",
+          "교회는 정치적 왕국을 세우기 때문이다"
+        ],
+        "explanation": "교회의 본질은 건물이나 단순한 출석이 아니라 예수님이 하나님의 아들이며 구원자이심을 믿는 신앙입니다. 그 믿음을 삶과 복음 증거로 나타내는 사람들이 하나님의 교회를 이룹니다."
+      },
+      "en": {
+        "question": "Why is Peter's confession, “You are the Christ, the Son of the living God,” connected to the essence of the church?",
+        "choices": [
+          "The church is built on the faith of people who believe and testify that Jesus is the Christ.",
+          "A church exists whenever its building is large.",
+          "Only Peter was permitted to belong to the church.",
+          "The church exists to establish a political kingdom."
+        ],
+        "explanation": "The church's essence is not a building or mere attendance, but faith that Jesus is God's Son and Savior. God's church is formed by those who express this faith through life and witness."
+      },
+      "es": {
+        "question": "¿Por qué la confesión de Pedro «Tú eres el Cristo, el Hijo del Dios viviente» se relaciona con la esencia de la iglesia?",
+        "choices": [
+          "La iglesia se edifica sobre la fe de quienes creen y testifican que Jesús es el Cristo.",
+          "Una iglesia existe cuando su edificio es grande.",
+          "Solo Pedro podía pertenecer a la iglesia.",
+          "La iglesia establece un reino político."
+        ],
+        "explanation": "La esencia de la iglesia no es el edificio ni la asistencia, sino la fe en Jesús como Hijo de Dios y Salvador, expresada en la vida y el testimonio."
+      }
+    },
+    {
+      "id": "remote-gospels-064",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "예수님께서 자신을 말리는 베드로에게 “사탄아 내 뒤로 물러가라”고 하신 까닭은 무엇입니까?",
+        "choices": [
+          "베드로가 예수님을 떠나려고 했기 때문에",
+          "하나님의 구원 계획보다 인간적인 생각으로 십자가의 길을 막았기 때문에",
+          "베드로가 다른 제자보다 약했기 때문에",
+          "고난은 언제나 피해야 하기 때문에"
+        ],
+        "explanation": "베드로의 말은 사랑처럼 보였지만 하나님의 뜻인 십자가를 가로막는 인간적 생각이었습니다. 주님을 따르려면 자기 기준을 내려놓는 자기 부인이 먼저 필요합니다."
+      },
+      "en": {
+        "question": "Why did Jesus tell Peter, who tried to stop him, “Get behind me, Satan”?",
+        "choices": [
+          "Peter was trying to leave Jesus.",
+          "Human thinking was obstructing the way of the cross in God's plan of salvation.",
+          "Peter was weaker than the other disciples.",
+          "Suffering must always be avoided."
+        ],
+        "explanation": "Peter's words sounded loving, but his human perspective opposed God's will through the cross. Following the Lord begins with denying our own standards."
+      },
+      "es": {
+        "question": "¿Por qué dijo Jesús a Pedro «¡Quítate de delante de mí, Satanás!» cuando este intentó detenerlo?",
+        "choices": [
+          "Pedro quería abandonar a Jesús.",
+          "Su pensamiento humano obstaculizaba el camino de la cruz en el plan de Dios.",
+          "Pedro era más débil que los demás.",
+          "Siempre debe evitarse el sufrimiento."
+        ],
+        "explanation": "Las palabras de Pedro parecían amorosas, pero se oponían al plan de la cruz. Seguir al Señor comienza al renunciar a nuestros propios criterios."
+      }
+    },
+    {
+      "id": "remote-gospels-065",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "변화산에서 예수님의 모습이 변화되고 모세와 엘리야가 나타난 사건이 증거하는 것은 무엇입니까?",
+        "choices": [
+          "예수님은 여러 선지자 중 한 사람일 뿐이다",
+          "제자들은 산에서 살아야 한다",
+          "예수님은 율법과 선지자가 증거한 하나님의 아들이시다",
+          "초막을 세우는 것이 믿음의 핵심이다"
+        ],
+        "explanation": "모세는 율법을, 엘리야는 선지자를 대표하며 이들은 모두 예수님을 향한 구약의 증거와 연결됩니다. 하늘의 음성은 제자들에게 예수님의 말씀을 들으라고 명하셨습니다."
+      },
+      "en": {
+        "question": "What did Jesus' transfiguration and the appearance of Moses and Elijah testify?",
+        "choices": [
+          "Jesus was only one prophet among many.",
+          "The disciples should live on the mountain.",
+          "Jesus is the Son of God to whom the Law and the Prophets bear witness.",
+          "Building shelters is the heart of faith."
+        ],
+        "explanation": "Moses represents the Law and Elijah the Prophets, both pointing to the Old Testament witness about Jesus. The heavenly voice commanded the disciples to listen to him."
+      },
+      "es": {
+        "question": "¿Qué testificaron la transfiguración de Jesús y la aparición de Moisés y Elías?",
+        "choices": [
+          "Jesús era solo otro profeta.",
+          "Los discípulos debían vivir en la montaña.",
+          "Jesús es el Hijo de Dios anunciado por la Ley y los Profetas.",
+          "Construir enramadas es el centro de la fe."
+        ],
+        "explanation": "Moisés representa la Ley y Elías a los Profetas, que señalan a Jesús. La voz del cielo mandó escucharle."
+      }
+    },
+    {
+      "id": "remote-gospels-066",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "귀신 들린 아이를 제자들이 고치지 못했을 때 예수님께서 강조하신 것은 무엇입니까?",
+        "choices": [
+          "기술과 경험만 있으면 된다는 것",
+          "제자의 수를 늘려야 한다는 것",
+          "병자를 멀리해야 한다는 것",
+          "믿음과 기도로 하나님을 의지해야 한다는 것"
+        ],
+        "explanation": "과거에 능력을 경험했다고 해서 언제나 자기 힘으로 사역할 수 있는 것은 아닙니다. 믿음과 기도는 능력의 근원이 자신이 아니라 하나님이심을 인정하고 의지하는 태도입니다."
+      },
+      "en": {
+        "question": "What did Jesus emphasize when the disciples could not heal the demon-possessed boy?",
+        "choices": [
+          "Skill and experience are sufficient.",
+          "They needed more disciples.",
+          "They should avoid sick people.",
+          "They must depend on God through faith and prayer."
+        ],
+        "explanation": "Past experiences of power do not enable anyone to minister by personal strength. Faith and prayer acknowledge that the source of power is God and depend on him."
+      },
+      "es": {
+        "question": "¿Qué enfatizó Jesús cuando los discípulos no pudieron sanar al muchacho endemoniado?",
+        "choices": [
+          "Bastan la habilidad y la experiencia.",
+          "Se necesitan más discípulos.",
+          "Debe evitarse a los enfermos.",
+          "Hay que depender de Dios mediante la fe y la oración."
+        ],
+        "explanation": "Haber experimentado poder antes no permite ministrar con fuerzas propias. La fe y la oración reconocen que el poder procede de Dios."
+      }
+    },
+    {
+      "id": "remote-gospels-067",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "성전세를 요구받았을 때 예수님께서 세금을 내신 태도에서 배울 수 있는 것은 무엇입니까?",
+        "choices": [
+          "정당한 권리가 있어도 불필요한 걸림돌을 만들지 않을 수 있다는 것",
+          "모든 요구가 옳다는 것",
+          "성전세가 구원의 조건이라는 것",
+          "돈이 가장 중요한 신앙이라는 것"
+        ],
+        "explanation": "예수님은 하나님의 아들로서 성전세를 내지 않을 권리가 있었지만 사람들을 실족하게 하지 않기 위해 내셨습니다. 자신의 권리를 주장하는 것보다 복음과 이웃에게 유익한 선택을 할 수 있어야 합니다."
+      },
+      "en": {
+        "question": "What can we learn from Jesus' decision to pay the temple tax when it was demanded?",
+        "choices": [
+          "Even when we have a legitimate right, we may choose not to create an unnecessary stumbling block.",
+          "Every demand is right.",
+          "The temple tax is a condition of salvation.",
+          "Money is the most important part of faith."
+        ],
+        "explanation": "As God's Son, Jesus had the right not to pay, but he paid to avoid causing offense. We should sometimes choose what benefits the gospel and our neighbor rather than insist on our rights."
+      },
+      "es": {
+        "question": "¿Qué aprendemos de que Jesús pagara el impuesto del templo?",
+        "choices": [
+          "Aun teniendo un derecho legítimo, podemos evitar crear un tropiezo innecesario.",
+          "Toda exigencia es correcta.",
+          "El impuesto era condición de salvación.",
+          "El dinero es lo más importante de la fe."
+        ],
+        "explanation": "Como Hijo de Dios, Jesús podía no pagarlo, pero lo hizo para no causar tropiezo. A veces debemos preferir el bien del evangelio y del prójimo a nuestros derechos."
+      }
+    },
+    {
+      "id": "remote-gospels-068",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "일흔 명의 제자를 둘씩 파송하신 방식이 주는 교훈은 무엇입니까?",
+        "choices": [
+          "한 지역에는 두 사람만 전도해야 한다",
+          "복음 사역은 혼자만의 능력으로 하는 일이 아니다",
+          "많은 준비물이 사역의 성공을 결정한다",
+          "결과가 없으면 즉시 복음을 포기해야 한다"
+        ],
+        "explanation": "둘씩 보냄으로 서로 돕고 증언을 확증하게 하셨습니다. 복음 사역은 개인의 명예를 위한 독주가 아니라 하나님을 의지하며 서로 협력하는 일입니다."
+      },
+      "en": {
+        "question": "What lesson comes from Jesus sending out the seventy disciples in pairs?",
+        "choices": [
+          "Only two people should evangelize in each region.",
+          "Gospel ministry is not carried out by one person's ability alone.",
+          "Abundant supplies determine success in ministry.",
+          "The gospel should be abandoned immediately if results are lacking."
+        ],
+        "explanation": "Going in pairs allowed them to support each other and confirm their testimony. Ministry is not a solo pursuit of personal honor but cooperative service that depends on God."
+      },
+      "es": {
+        "question": "¿Qué enseña que Jesús enviara a los setenta discípulos de dos en dos?",
+        "choices": [
+          "Solo dos personas deben evangelizar cada región.",
+          "El ministerio no se realiza únicamente con la capacidad individual.",
+          "Muchas provisiones garantizan el éxito.",
+          "Sin resultados, debe abandonarse el evangelio."
+        ],
+        "explanation": "En parejas podían apoyarse y confirmar el testimonio. El ministerio es cooperación que depende de Dios, no una actuación individual."
+      }
+    },
+    {
+      "id": "remote-gospels-069",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "강도 만난 사람을 도운 선한 사마리아인의 비유가 가르치는 “이웃”은 누구입니까?",
+        "choices": [
+          "같은 민족과 종교를 가진 사람만",
+          "자신에게 유익을 주는 사람만",
+          "도움이 필요한 사람에게 자비를 베푸는 사람",
+          "가까운 집에 사는 사람만"
+        ],
+        "explanation": "예수님은 누가 내 이웃인가를 따지기보다 고통받는 사람에게 내가 이웃이 되어주라고 가르치셨습니다. 참된 사랑은 신분과 관계를 넘어 실제 자비의 행동으로 나타납니다."
+      },
+      "en": {
+        "question": "In the parable of the Good Samaritan, who is a “neighbor”?",
+        "choices": [
+          "Only someone of the same ethnicity and religion",
+          "Only someone who benefits us",
+          "The person who shows mercy to someone in need",
+          "Only someone who lives nearby"
+        ],
+        "explanation": "Instead of debating who qualifies as our neighbor, Jesus taught us to become a neighbor to those who suffer. True love crosses social boundaries and acts with mercy."
+      },
+      "es": {
+        "question": "En la parábola del buen samaritano, ¿quién es el «prójimo»?",
+        "choices": [
+          "Solo quien comparte etnia y religión",
+          "Solo quien nos beneficia",
+          "Quien muestra misericordia a la persona necesitada",
+          "Solo quien vive cerca"
+        ],
+        "explanation": "Jesús enseñó que debemos hacernos prójimos de quien sufre. El amor verdadero cruza barreras y actúa con misericordia."
+      }
+    },
+    {
+      "id": "remote-gospels-070",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "마르다와 마리아의 집에서 예수님께서 마리아가 좋은 편을 택했다고 하신 이유는 무엇입니까?",
+        "choices": [
+          "집안일은 언제나 잘못이기 때문에",
+          "마리아가 마르다보다 능력이 많았기 때문에",
+          "손님을 대접할 필요가 없기 때문에",
+          "많은 봉사보다 먼저 주님의 말씀을 듣고 마음을 집중하는 것이 중요하기 때문에"
+        ],
+        "explanation": "마르다의 봉사 자체가 잘못된 것은 아니지만 염려와 분주함이 주님을 향한 마음을 빼앗았습니다. 섬김보다 먼저 말씀을 듣고 주님과의 관계를 바로 세워야 합니다."
+      },
+      "en": {
+        "question": "Why did Jesus say that Mary had chosen what was better in the home of Martha and Mary?",
+        "choices": [
+          "Household work is always wrong.",
+          "Mary was more capable than Martha.",
+          "Guests never need hospitality.",
+          "Listening to the Lord and focusing the heart on him must come before much service."
+        ],
+        "explanation": "Martha's service was not wrong, but anxiety and busyness took her attention from the Lord. Our relationship with him and attention to his word must come before service."
+      },
+      "es": {
+        "question": "¿Por qué dijo Jesús que María había escogido la mejor parte en casa de Marta y María?",
+        "choices": [
+          "Las tareas domésticas siempre son malas.",
+          "María era más capaz.",
+          "No era necesario atender a los huéspedes.",
+          "Escuchar al Señor y concentrarse en él debe preceder a mucho servicio."
+        ],
+        "explanation": "El servicio de Marta no era malo, pero la ansiedad apartó su atención del Señor. La relación con él y su palabra deben venir primero."
+      }
+    },
+    {
+      "id": "remote-gospels-071",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "예수님께서 가르치신 기도에서 끈기 있게 구하라는 말씀의 뜻은 무엇입니까?",
+        "choices": [
+          "하나님을 신뢰하며 낙심하지 않고 관계 안에서 구하라는 뜻이다",
+          "같은 말을 많이 반복하면 하나님을 설득할 수 있다",
+          "원하는 것을 받을 때까지 다른 사람을 괴롭히라는 뜻이다",
+          "기도의 내용은 중요하지 않다는 뜻이다"
+        ],
+        "explanation": "끈기 있는 기도는 하나님을 억지로 움직이는 방법이 아니라 그분의 선하심을 믿고 낙심하지 않는 믿음입니다. 구하는 사람은 자신의 뜻뿐 아니라 하나님의 뜻에도 마음을 열어야 합니다."
+      },
+      "en": {
+        "question": "What did Jesus mean by teaching us to ask persistently in prayer?",
+        "choices": [
+          "Trust God and continue asking within a relationship with him without losing heart.",
+          "Repeating the same words many times can persuade God.",
+          "Keep bothering other people until we receive what we want.",
+          "The content of prayer does not matter."
+        ],
+        "explanation": "Persistent prayer does not force God to act; it trusts his goodness and refuses to lose heart. The one who asks must remain open to God's will as well as personal desires."
+      },
+      "es": {
+        "question": "¿Qué significa pedir con perseverancia en la oración?",
+        "choices": [
+          "Confiar en Dios y seguir pidiendo sin desanimarse dentro de una relación con él",
+          "Repetir mucho para convencer a Dios",
+          "Molestar a otros hasta conseguir lo deseado",
+          "Que el contenido no importa"
+        ],
+        "explanation": "La oración perseverante no obliga a Dios; confía en su bondad y no se rinde. También permanece abierta a la voluntad de Dios."
+      }
+    },
+    {
+      "id": "remote-gospels-072",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "누가복음 12장의 어리석은 부자의 비유에서 부자가 책망받은 근본 이유는 무엇입니까?",
+        "choices": [
+          "곡식이 많이 수확되었기 때문에",
+          "하나님과 이웃을 잊고 재물을 자기 생명의 보장으로 삼았기 때문에",
+          "재산을 계획적으로 보관했기 때문에",
+          "농사를 지었기 때문에"
+        ],
+        "explanation": "문제는 재산 자체가 아니라 그것을 자기만을 위해 쌓고 영혼의 안전까지 보장할 수 있다고 믿은 태도입니다. 하나님께 대하여 부요하지 못한 채 재물만 의지하면 생명의 주인을 잊게 됩니다."
+      },
+      "en": {
+        "question": "In the parable of the rich fool in Luke 12, what was the fundamental reason the rich man was rebuked?",
+        "choices": [
+          "His harvest was abundant.",
+          "He forgot God and his neighbors and treated wealth as the guarantee of his life.",
+          "He stored his property carefully.",
+          "He worked as a farmer."
+        ],
+        "explanation": "The problem was not wealth itself, but storing it only for himself and trusting it to secure even his soul. Dependence on possessions while remaining poor toward God forgets the true Lord of life."
+      },
+      "es": {
+        "question": "En la parábola del rico insensato de Lucas 12, ¿cuál fue la razón fundamental por la que el rico fue reprendido?",
+        "choices": [
+          "Porque tuvo una gran cosecha",
+          "Porque olvidó a Dios y al prójimo y convirtió la riqueza en garantía de su vida",
+          "Porque almacenó sus bienes con cuidado",
+          "Porque era agricultor"
+        ],
+        "explanation": "El problema no era la riqueza, sino acumularla solo para sí y confiar en ella como seguridad del alma. Así olvidó al verdadero Señor de la vida."
+      }
+    },
+    {
+      "id": "remote-gospels-073",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "누가복음 13장의 예수님께서 회개하지 않으면 망한다고 경고하시며 가르치신 것은 무엇입니까?",
+        "choices": [
+          "큰 사고를 당한 사람이 더 큰 죄인이라는 것",
+          "다른 사람의 불행을 보며 자신의 의를 확인하라는 것",
+          "남의 죄를 판단하기보다 자신도 회개해야 할 존재임을 깨달으라는 것",
+          "재난은 언제나 특정 죄의 직접적인 벌이라는 것"
+        ],
+        "explanation": "어떤 사람이 재난을 당했다고 해서 그가 다른 사람보다 더 악하다고 단정할 수 없습니다. 타인의 불행을 판단의 근거로 삼지 말고 자신에게도 회개가 필요함을 깨달아야 합니다."
+      },
+      "en": {
+        "question": "In Luke 13, what did Jesus teach when he warned, “Unless you repent, you too will all perish”?",
+        "choices": [
+          "Victims of major disasters are worse sinners.",
+          "We should use others' misfortune to confirm our righteousness.",
+          "Rather than judging others' sins, we should recognize our own need for repentance.",
+          "Every disaster is direct punishment for a specific sin."
+        ],
+        "explanation": "A disaster does not prove that its victims were more wicked than others. Instead of judging them, we should recognize that we too need repentance."
+      },
+      "es": {
+        "question": "En Lucas 13, ¿qué enseñó Jesús cuando advirtió: «Si no se arrepienten, todos ustedes también perecerán»?",
+        "choices": [
+          "Las víctimas de desastres son más pecadoras.",
+          "Debemos confirmar nuestra justicia mirando su desgracia.",
+          "En vez de juzgar a otros, debemos reconocer nuestra propia necesidad de arrepentimiento.",
+          "Todo desastre castiga directamente un pecado concreto."
+        ],
+        "explanation": "Una desgracia no demuestra mayor maldad. En lugar de juzgar a las víctimas, debemos reconocer que también necesitamos arrepentirnos."
+      }
+    },
+    {
+      "id": "remote-gospels-074",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "선한 목자와 삯꾼 목자의 가장 큰 차이는 무엇입니까?",
+        "choices": [
+          "양의 수를 많이 아는가의 차이",
+          "목소리가 큰가의 차이",
+          "양 우리를 크게 짓는가의 차이",
+          "위험할 때 양을 위해 자신을 내어주는가의 차이"
+        ],
+        "explanation": "삯꾼은 위험이 오면 자기 생명을 지키기 위해 양을 버리지만 선한 목자는 양을 위해 목숨을 내놓습니다. 예수님은 자기 백성을 사랑하여 생명을 주신 참된 목자이십니다."
+      },
+      "en": {
+        "question": "What is the greatest difference between the good shepherd and a hired hand?",
+        "choices": [
+          "How many sheep they know",
+          "How loud their voices are",
+          "How large a sheepfold they build",
+          "Whether they give themselves for the sheep when danger comes"
+        ],
+        "explanation": "A hired hand abandons the sheep to protect himself, but the good shepherd lays down his life for them. Jesus is the true shepherd who gave his life for his people."
+      },
+      "es": {
+        "question": "¿Cuál es la mayor diferencia entre el buen pastor y el asalariado?",
+        "choices": [
+          "Cuántas ovejas conocen",
+          "El volumen de su voz",
+          "El tamaño del redil",
+          "Si se entregan por las ovejas cuando llega el peligro"
+        ],
+        "explanation": "El asalariado abandona las ovejas para salvarse, pero el buen pastor da la vida por ellas. Jesús es el verdadero Pastor."
+      }
+    },
+    {
+      "id": "remote-gospels-075",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "큰 잔치에서 높은 자리를 택하지 말라는 말씀의 핵심은 무엇입니까?",
+        "choices": [
+          "자신을 높이지 말고 겸손히 하나님의 높이심을 기다리라는 뜻이다",
+          "언제나 가장 먼 자리에 앉으라는 규칙이다",
+          "잔치에 참석하지 말라는 뜻이다",
+          "사회적 지위를 숨기라는 뜻이다"
+        ],
+        "explanation": "스스로 높은 자리를 차지하려는 마음은 다른 사람보다 자신을 앞세우는 교만에서 나옵니다. 자신을 낮추는 사람을 하나님께서 높이신다는 하나님 나라의 질서를 가르칩니다."
+      },
+      "en": {
+        "question": "What is the main point of Jesus' instruction not to choose the place of honor at a banquet?",
+        "choices": [
+          "Do not exalt yourself; humbly wait for God to lift you up.",
+          "Always sit in the farthest seat.",
+          "Never attend a banquet.",
+          "Conceal your social status."
+        ],
+        "explanation": "Seeking the highest place comes from pride that puts oneself ahead of others. Jesus taught the order of God's kingdom: God lifts up those who humble themselves."
+      },
+      "es": {
+        "question": "¿Cuál es la idea principal de no escoger el lugar de honor en un banquete?",
+        "choices": [
+          "No exaltarse, sino esperar humildemente que Dios nos eleve.",
+          "Sentarse siempre en el lugar más lejano.",
+          "No asistir a banquetes.",
+          "Ocultar la posición social."
+        ],
+        "explanation": "Buscar el primer lugar nace del orgullo. En el reino de Dios, él levanta a quien se humilla."
+      }
+    },
+    {
+      "id": "remote-gospels-076",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "예수님의 제자가 되기 위해 자기 십자가를 지라는 말씀은 무엇을 뜻합니까?",
+        "choices": [
+          "일부러 고통스러운 일을 찾아다니라는 뜻이다",
+          "자기 욕심과 기준보다 예수님의 뜻을 우선하며 따르라는 뜻이다",
+          "가족과 모든 인간관계를 미워하라는 뜻이다",
+          "구원을 자신의 고난으로 얻으라는 뜻이다"
+        ],
+        "explanation": "제자도는 감정적인 결심만이 아니라 자신의 소유와 욕심, 기준을 내려놓고 주님의 뜻을 우선하는 삶입니다. 대가를 생각하지 않은 채 시작하면 끝까지 따르기 어렵습니다."
+      },
+      "en": {
+        "question": "What does it mean to carry one's cross in order to be Jesus' disciple?",
+        "choices": [
+          "Deliberately seek painful experiences.",
+          "Put Jesus' will above personal desires and standards and follow him.",
+          "Hate one's family and every human relationship.",
+          "Earn salvation through personal suffering."
+        ],
+        "explanation": "Discipleship is more than an emotional decision; it lays down possessions, desires, and personal standards to put the Lord's will first. Without counting the cost, it is difficult to follow to the end."
+      },
+      "es": {
+        "question": "¿Qué significa llevar la cruz para ser discípulo de Jesús?",
+        "choices": [
+          "Buscar sufrimientos deliberadamente",
+          "Poner la voluntad de Jesús por encima de los deseos y criterios propios",
+          "Odiar a la familia y toda relación humana",
+          "Ganar la salvación mediante el sufrimiento"
+        ],
+        "explanation": "El discipulado renuncia a posesiones, deseos y criterios para poner primero al Señor. Sin considerar el costo, es difícil seguir hasta el final."
+      }
+    },
+    {
+      "id": "remote-gospels-077",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "잃은 양과 잃은 동전의 비유가 공통으로 보여주는 하나님의 마음은 무엇입니까?",
+        "choices": [
+          "잃어버린 한 사람은 중요하지 않다",
+          "많은 사람만 구원하기 원하신다",
+          "죄인 한 사람이 회개하고 돌아오는 것을 기뻐하신다",
+          "스스로 돌아올 때까지 찾지 않으신다"
+        ],
+        "explanation": "목자와 여인은 잃어버린 하나를 찾을 때까지 애쓰고, 찾은 뒤 함께 기뻐합니다. 하나님께서는 길을 잃은 한 영혼도 소중히 여기시며 그가 회개하여 돌아오는 것을 기뻐하십니다."
+      },
+      "en": {
+        "question": "What aspect of God's heart is shared by the parables of the lost sheep and the lost coin?",
+        "choices": [
+          "One lost person is unimportant.",
+          "God wants to save only large groups.",
+          "God rejoices when one sinner repents and returns.",
+          "God does not seek anyone but waits for them to return alone."
+        ],
+        "explanation": "The shepherd and the woman search until they find what was lost and then rejoice with others. God values each lost soul and rejoices when that person repents and returns."
+      },
+      "es": {
+        "question": "¿Qué aspecto del corazón de Dios comparten las parábolas de la oveja y la moneda perdidas?",
+        "choices": [
+          "Una persona perdida no importa.",
+          "Dios quiere salvar solo a multitudes.",
+          "Dios se alegra cuando un pecador se arrepiente y vuelve.",
+          "Dios no busca a nadie."
+        ],
+        "explanation": "El pastor y la mujer buscan hasta encontrar y después celebran. Dios valora a cada alma perdida y se alegra por su regreso."
+      }
+    },
+    {
+      "id": "remote-gospels-078",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "탕자의 비유에서 아버지가 돌아온 아들을 달려가 맞아준 모습은 무엇을 나타냅니까?",
+        "choices": [
+          "형의 순종은 전혀 가치가 없다는 뜻",
+          "죄에는 아무 결과도 없다는 뜻",
+          "재산을 낭비해도 항상 더 받을 수 있다는 뜻",
+          "회개한 죄인을 기꺼이 받아들이시는 하나님의 사랑"
+        ],
+        "explanation": "아들은 자신의 자격을 주장하지 않고 죄를 깨달아 아버지께 돌아왔습니다. 아버지는 그를 품고 아들의 지위를 회복시킴으로 회개한 죄인을 받아들이시는 하나님의 사랑을 보여줍니다."
+      },
+      "en": {
+        "question": "What is represented by the father running to welcome the returning son in the parable of the prodigal son?",
+        "choices": [
+          "The older son's obedience had no value.",
+          "Sin has no consequences.",
+          "Anyone who wastes wealth will always receive more.",
+          "God's love that gladly receives a repentant sinner"
+        ],
+        "explanation": "The son claimed no merit but recognized his sin and returned. By embracing him and restoring his place as a son, the father displayed God's love for repentant sinners."
+      },
+      "es": {
+        "question": "¿Qué representa el padre que corre a recibir al hijo pródigo?",
+        "choices": [
+          "La obediencia del hermano mayor no valía nada.",
+          "El pecado no tiene consecuencias.",
+          "Quien malgasta siempre recibirá más.",
+          "El amor de Dios que recibe con gozo al pecador arrepentido"
+        ],
+        "explanation": "El hijo reconoció su pecado y regresó sin reclamar méritos. El abrazo y la restauración muestran el amor de Dios."
+      }
+    },
+    {
+      "id": "remote-gospels-079",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "불의한 청지기 비유에서 청지기의 행동 전체가 칭찬받은 것이 아니라 무엇이 강조됩니까?",
+        "choices": [
+          "다가올 때를 알고 미래를 준비한 지혜",
+          "남의 재산을 마음대로 사용한 정직함",
+          "주인을 속이면 성공한다는 교훈",
+          "빚을 갚지 않아도 된다는 교훈"
+        ],
+        "explanation": "예수님은 청지기의 불의를 칭찬하신 것이 아니라 위기를 알고 앞날을 준비한 기민함을 말씀하셨습니다. 성도는 세상의 재물을 영원한 가치를 위해 지혜롭게 사용해야 합니다."
+      },
+      "en": {
+        "question": "In the parable of the dishonest manager, what was emphasized rather than praising all of the manager's actions?",
+        "choices": [
+          "His foresight in recognizing what was coming and preparing for the future",
+          "His honesty in using another person's property",
+          "The lesson that deceiving one's master brings success",
+          "The lesson that debts do not need to be repaid"
+        ],
+        "explanation": "Jesus did not praise the manager's dishonesty, but his alertness in recognizing the crisis and preparing ahead. Believers should wisely use worldly wealth for eternal purposes."
+      },
+      "es": {
+        "question": "En la parábola del mayordomo injusto, ¿qué se destaca sin aprobar toda su conducta?",
+        "choices": [
+          "Su previsión para reconocer lo que venía y prepararse",
+          "Su honestidad al usar bienes ajenos",
+          "Que engañar al amo trae éxito",
+          "Que no hay que pagar deudas"
+        ],
+        "explanation": "Jesús no elogió su injusticia, sino su diligencia ante la crisis. El creyente debe usar sabiamente los bienes temporales con fines eternos."
+      }
+    },
+    {
+      "id": "remote-gospels-080",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "부자와 나사로 비유에서 부자가 심판받은 이유로 가장 알맞은 것은 무엇입니까?",
+        "choices": [
+          "좋은 옷을 입었기 때문에",
+          "문 앞의 고통받는 나사로를 외면하며 하나님과 이웃을 향한 마음이 없었기 때문에",
+          "부자라는 신분 자체가 죄였기 때문에",
+          "날마다 음식을 먹었기 때문에"
+        ],
+        "explanation": "부자의 문제는 재산 그 자체보다 가까이에 있는 고통을 보고도 외면한 완고한 마음이었습니다. 말씀을 듣고도 돌이키지 않는 사람은 특별한 기적을 보아도 참되게 회개하지 않습니다."
+      },
+      "en": {
+        "question": "What best explains why the rich man was judged in the parable of the rich man and Lazarus?",
+        "choices": [
+          "He wore fine clothing.",
+          "He ignored the suffering Lazarus at his gate and had no heart for God or his neighbor.",
+          "Being rich was itself a sin.",
+          "He ate every day."
+        ],
+        "explanation": "The deeper problem was not his possessions but his hard heart that ignored suffering nearby. Those who refuse to turn after hearing God's word will not truly repent even after an extraordinary sign."
+      },
+      "es": {
+        "question": "¿Por qué fue juzgado el rico en la parábola del rico y Lázaro?",
+        "choices": [
+          "Porque vestía bien",
+          "Porque ignoró al Lázaro sufriente y no tuvo corazón para Dios ni para su prójimo",
+          "Porque ser rico era pecado",
+          "Porque comía diariamente"
+        ],
+        "explanation": "El problema fue su corazón endurecido ante el sufrimiento cercano. Quien no responde a la palabra tampoco se arrepiente por ver una señal extraordinaria."
+      }
+    },
+    {
+      "id": "remote-gospels-081",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "열 명의 문둥병자가 고침받았지만 한 사람만 돌아와 감사한 사건이 가르치는 것은 무엇입니까?",
+        "choices": [
+          "병 고침을 받으면 모두 구원받는다",
+          "유대인만 감사할 수 있다",
+          "은혜를 받는 것과 은혜를 깨닫고 감사하는 것은 다를 수 있다",
+          "감사는 마음속으로만 하면 된다"
+        ],
+        "explanation": "열 사람 모두 치유를 받았지만 사마리아인 한 사람만 돌아와 하나님께 영광을 돌렸습니다. 은혜를 경험하고도 당연하게 여기지 말고 하나님의 은혜를 기억하며 감사해야 합니다."
+      },
+      "en": {
+        "question": "What does the account of the ten men with leprosy, of whom only one returned to give thanks, teach?",
+        "choices": [
+          "Everyone who is healed is saved.",
+          "Only Jews can be thankful.",
+          "Receiving grace and recognizing it with gratitude are not always the same.",
+          "Gratitude should remain only in the heart."
+        ],
+        "explanation": "All ten were healed, but only the Samaritan returned and glorified God. We should not take grace for granted, but remember it and respond with gratitude."
+      },
+      "es": {
+        "question": "¿Qué enseña que, de diez leprosos sanados, solo uno regresara a dar gracias?",
+        "choices": [
+          "Todo sanado es salvo.",
+          "Solo los judíos agradecen.",
+          "Recibir gracia y reconocerla con gratitud pueden ser cosas distintas.",
+          "La gratitud debe permanecer solo en el corazón."
+        ],
+        "explanation": "Los diez fueron sanados, pero solo el samaritano volvió y glorificó a Dios. No debemos dar la gracia por sentada."
+      }
+    },
+    {
+      "id": "remote-gospels-082",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "바리새인과 세리의 기도에서 하나님께 의롭다 하심을 받은 사람은 누구이며 그 이유는 무엇입니까?",
+        "choices": [
+          "자신의 선행을 말한 바리새인, 행위가 많았기 때문에",
+          "두 사람 모두 아니며, 금식하지 않았기 때문에",
+          "두 사람 모두, 성전에 왔기 때문에",
+          "죄를 인정하고 긍휼을 구한 세리, 자신을 낮추었기 때문에"
+        ],
+        "explanation": "바리새인은 다른 사람과 비교하며 자기 의를 드러냈지만 세리는 자신의 죄를 인정하고 하나님의 긍휼만 구했습니다. 하나님 앞에서 자신을 낮추고 은혜를 구하는 사람이 의롭다 하심을 받습니다."
+      },
+      "en": {
+        "question": "In the prayers of the Pharisee and the tax collector, who was justified by God, and why?",
+        "choices": [
+          "The Pharisee, because he listed many good deeds",
+          "Neither, because they had not fasted",
+          "Both, because they entered the temple",
+          "The tax collector, because he humbled himself, confessed his sin, and asked for mercy"
+        ],
+        "explanation": "The Pharisee compared himself with others and displayed self-righteousness, while the tax collector admitted his sin and relied only on God's mercy. God justifies the person who humbles himself and seeks grace."
+      },
+      "es": {
+        "question": "En las oraciones del fariseo y el publicano, ¿quién fue justificado y por qué?",
+        "choices": [
+          "El fariseo, por sus muchas obras",
+          "Ninguno, porque no ayunaron",
+          "Ambos, porque entraron al templo",
+          "El publicano, porque se humilló, confesó su pecado y pidió misericordia"
+        ],
+        "explanation": "El fariseo mostró justicia propia; el publicano dependió de la misericordia. Dios justifica al que se humilla y pide gracia."
+      }
+    },
+    {
+      "id": "remote-gospels-083",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "부자 청년이 예수님을 따르지 못하고 근심하며 돌아간 이유는 무엇입니까?",
+        "choices": [
+          "영생보다 재물을 더 의지하고 사랑했기 때문에",
+          "계명을 전혀 몰랐기 때문에",
+          "나이가 너무 어렸기 때문에",
+          "제자들이 그를 막았기 때문에"
+        ],
+        "explanation": "그는 자신이 계명을 지켰다고 생각했지만 재물을 내려놓으라는 말씀 앞에서 마음의 주인이 드러났습니다. 하나님보다 더 의지하고 사랑하는 것이 있으면 온전히 주님을 따르기 어렵습니다."
+      },
+      "en": {
+        "question": "Why did the rich young ruler leave in sorrow instead of following Jesus?",
+        "choices": [
+          "He trusted and loved wealth more than eternal life.",
+          "He knew none of the commandments.",
+          "He was too young.",
+          "The disciples prevented him."
+        ],
+        "explanation": "He believed he had kept the commandments, but the command to give up his wealth revealed the true master of his heart. We cannot fully follow the Lord while trusting and loving something more than God."
+      },
+      "es": {
+        "question": "¿Por qué se marchó triste el joven rico en vez de seguir a Jesús?",
+        "choices": [
+          "Confiaba y amaba la riqueza más que la vida eterna.",
+          "No conocía ningún mandamiento.",
+          "Era demasiado joven.",
+          "Los discípulos se lo impidieron."
+        ],
+        "explanation": "Creía guardar los mandamientos, pero su riqueza reveló al verdadero dueño de su corazón. No podemos seguir plenamente al Señor si amamos algo más que a Dios."
+      }
+    },
+    {
+      "id": "remote-gospels-084",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "포도원 품꾼 비유에서 늦게 온 사람도 같은 품삯을 받은 것은 무엇을 보여줍니까?",
+        "choices": [
+          "일찍 믿은 사람의 수고는 아무 의미가 없다",
+          "하나님의 은혜는 인간의 공로가 아니라 하나님의 선하심에서 나온다",
+          "일은 늦게 시작할수록 좋다",
+          "모든 사람이 같은 일을 해야 한다"
+        ],
+        "explanation": "구원과 은혜는 인간이 일한 양을 계산하여 지급하는 임금과 같지 않습니다. 하나님께서 약속을 지키시며 자비를 베푸시는 것을 다른 사람과 비교하여 불평해서는 안 됩니다."
+      },
+      "en": {
+        "question": "What is shown by the workers who came late receiving the same wages in the parable of the vineyard workers?",
+        "choices": [
+          "The labor of early believers has no value.",
+          "God's grace comes from his goodness, not from human merit.",
+          "It is always better to begin work late.",
+          "Everyone must do identical work."
+        ],
+        "explanation": "Salvation and grace are not wages calculated by the amount of work performed. We should not compare ourselves with others and complain about God's faithful generosity."
+      },
+      "es": {
+        "question": "¿Qué muestra que los últimos trabajadores recibieran el mismo salario?",
+        "choices": [
+          "El esfuerzo de los primeros no vale.",
+          "La gracia de Dios nace de su bondad, no del mérito humano.",
+          "Siempre es mejor comenzar tarde.",
+          "Todos deben hacer el mismo trabajo."
+        ],
+        "explanation": "La salvación no es un salario calculado por la cantidad de trabajo. No debemos comparar y quejarnos de la generosidad de Dios."
+      }
+    },
+    {
+      "id": "remote-gospels-085",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "야고보와 요한의 어머니가 높은 자리를 요구했을 때 예수님께서 가르치신 하나님 나라의 큰 사람은 누구입니까?",
+        "choices": [
+          "다른 사람을 지배하는 사람",
+          "많은 사람에게 섬김을 받는 사람",
+          "예수님처럼 다른 사람을 섬기는 사람",
+          "가장 오래 제자로 지낸 사람"
+        ],
+        "explanation": "세상의 권력은 남을 지배하는 것으로 드러나지만 하나님 나라의 위대함은 섬김으로 나타납니다. 예수님도 섬김을 받으려 하지 않고 자기 생명을 많은 사람의 대속물로 주셨습니다."
+      },
+      "en": {
+        "question": "When the mother of James and John asked for places of honor, whom did Jesus describe as great in God's kingdom?",
+        "choices": [
+          "The person who rules over others",
+          "The person served by many people",
+          "The person who serves others as Jesus did",
+          "The person who has been a disciple the longest"
+        ],
+        "explanation": "Worldly power is displayed by ruling others, but greatness in God's kingdom is shown through service. Jesus came not to be served, but to give his life as a ransom for many."
+      },
+      "es": {
+        "question": "Cuando la madre de Jacobo y Juan pidió lugares de honor, ¿a quién describió Jesús como grande en el reino?",
+        "choices": [
+          "A quien domina a otros",
+          "A quien recibe mucho servicio",
+          "A quien sirve a otros como Jesús",
+          "Al discípulo más antiguo"
+        ],
+        "explanation": "El poder mundano domina, pero la grandeza del reino sirve. Jesús dio su vida en rescate por muchos."
+      }
+    },
+    {
+      "id": "remote-gospels-086",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "소경 바디매오가 사람들의 만류에도 예수님을 계속 부른 모습에서 배울 수 있는 것은 무엇입니까?",
+        "choices": [
+          "겉옷을 버려야만 구원받는다",
+          "큰 소리 자체가 치유의 능력이다",
+          "다른 사람의 충고는 언제나 무시해야 한다",
+          "간절한 믿음은 방해 속에서도 주님께 나아간다"
+        ],
+        "explanation": "바디매오는 사람들이 꾸짖어도 예수님이 자신을 불쌍히 여겨주시길 더욱 외쳤습니다. 자신의 필요를 분명히 알고 주님께 끝까지 나아가는 간절함이 믿음의 행동으로 나타났습니다."
+      },
+      "en": {
+        "question": "What can we learn from blind Bartimaeus continuing to call Jesus despite the crowd's attempts to silence him?",
+        "choices": [
+          "A person must discard a cloak to be saved.",
+          "Loudness itself has healing power.",
+          "Advice from others should always be ignored.",
+          "Earnest faith continues coming to the Lord despite obstacles."
+        ],
+        "explanation": "Although people rebuked him, Bartimaeus cried out even more for Jesus' mercy. Knowing his need and continuing to approach the Lord expressed his faith."
+      },
+      "es": {
+        "question": "¿Qué aprendemos de Bartimeo, que siguió llamando a Jesús pese a quienes intentaban callarlo?",
+        "choices": [
+          "Hay que tirar el manto para salvarse.",
+          "El volumen de la voz sana.",
+          "Siempre debe ignorarse todo consejo.",
+          "La fe ferviente sigue acercándose al Señor pese a los obstáculos."
+        ],
+        "explanation": "Aunque lo reprendieron, Bartimeo clamó aún más por misericordia. Su perseverancia expresó la fe."
+      }
+    },
+    {
+      "id": "remote-gospels-087",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "삭개오가 예수님을 만난 후 재산을 나누고 부당하게 빼앗은 것을 갚겠다고 한 행동은 무엇을 보여줍니까?",
+        "choices": [
+          "참된 회개와 구원은 삶의 실제 변화로 나타난다",
+          "구원은 돈으로 살 수 있다",
+          "모든 직업을 그만두어야 한다",
+          "재산이 없는 사람만 예수님을 따를 수 있다"
+        ],
+        "explanation": "삭개오는 말로만 잘못을 인정하지 않고 탐욕으로 쌓은 삶을 바로잡으려 했습니다. 구원은 행위로 사는 것이 아니지만 참으로 은혜를 받은 사람에게는 가치관과 행동의 변화가 나타납니다."
+      },
+      "en": {
+        "question": "What did Zacchaeus demonstrate by sharing his wealth and promising to repay what he had taken unjustly after meeting Jesus?",
+        "choices": [
+          "Genuine repentance and salvation produce practical change in life.",
+          "Salvation can be bought with money.",
+          "Every believer must leave their occupation.",
+          "Only those without possessions can follow Jesus."
+        ],
+        "explanation": "Zacchaeus did more than verbally admit wrongdoing; he acted to correct a life shaped by greed. Salvation is not purchased by works, but grace truly received changes values and behavior."
+      },
+      "es": {
+        "question": "¿Qué mostró Zaqueo al repartir sus bienes y devolver lo obtenido injustamente después de conocer a Jesús?",
+        "choices": [
+          "El arrepentimiento y la salvación verdaderos producen cambios concretos.",
+          "La salvación se compra con dinero.",
+          "Todo creyente debe abandonar su profesión.",
+          "Solo quien no posee nada puede seguir a Jesús."
+        ],
+        "explanation": "Zaqueo no solo admitió su mal; actuó para corregirlo. Las obras no compran la salvación, pero la gracia recibida cambia los valores y la conducta."
+      }
+    },
+    {
+      "id": "remote-gospels-088",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "열 므나 비유에서 주인이 종들에게 맡긴 것을 가지고 장사하라고 한 말씀의 뜻은 무엇입니까?",
+        "choices": [
+          "모든 성도는 사업가가 되어야 한다",
+          "하나님께 받은 기회와 사명을 충성스럽게 사용해야 한다",
+          "받은 것을 잃지 않도록 숨겨두어야 한다",
+          "다른 사람의 것을 빼앗아 늘려야 한다"
+        ],
+        "explanation": "주인이 돌아올 때 종들은 맡겨진 것을 어떻게 사용했는지 결산했습니다. 성도는 주님께 받은 시간과 재능과 복음을 묻어두지 말고 하나님 나라를 위해 충성스럽게 사용해야 합니다."
+      },
+      "en": {
+        "question": "What did the master mean by telling the servants in the parable of the minas to put what he gave them to work?",
+        "choices": [
+          "Every believer must become a business owner.",
+          "We must faithfully use the opportunities and calling God has given us.",
+          "We must hide what we receive so it will not be lost.",
+          "We should increase it by taking what belongs to others."
+        ],
+        "explanation": "When the master returned, the servants gave an account of how they had used what was entrusted to them. Believers should faithfully use their time, abilities, and the gospel for God's kingdom."
+      },
+      "es": {
+        "question": "¿Qué significa que el amo dijera a sus siervos que negociaran con las minas recibidas?",
+        "choices": [
+          "Todo creyente debe ser empresario.",
+          "Debemos usar fielmente las oportunidades y la misión recibidas de Dios.",
+          "Debemos esconder lo recibido.",
+          "Debemos aumentarlo tomando lo ajeno."
+        ],
+        "explanation": "Al regresar, el amo pidió cuentas. Debemos usar fielmente para el reino el tiempo, las capacidades y el evangelio recibidos."
+      }
+    },
+    {
+      "id": "remote-gospels-089",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "마리아가 값비싼 향유를 예수님께 부었을 때 가룟 유다가 비난한 행동에서 드러난 문제는 무엇입니까?",
+        "choices": [
+          "가난한 사람을 실제로 사랑해서 생긴 문제",
+          "향유의 값이 너무 낮았던 문제",
+          "경건한 말 뒤에 탐욕과 계산을 숨긴 외식",
+          "예수님을 섬기는 행동은 모두 낭비라는 문제"
+        ],
+        "explanation": "유다는 가난한 사람을 위한다는 명분을 말했지만 실제로는 돈에 대한 욕심이 있었습니다. 신앙적인 말이 그럴듯해도 그 안의 동기와 실제 삶이 일치하는지 살펴야 합니다."
+      },
+      "en": {
+        "question": "What problem was revealed when Judas Iscariot criticized Mary for pouring expensive perfume on Jesus?",
+        "choices": [
+          "His genuine love for the poor",
+          "The perfume was too inexpensive.",
+          "Hypocrisy that hid greed and calculation behind pious words",
+          "Every act of serving Jesus is wasteful."
+        ],
+        "explanation": "Judas spoke as though he cared for the poor, but he was actually motivated by greed. Religious words may sound impressive, but their motives must agree with the person's life."
+      },
+      "es": {
+        "question": "¿Qué problema reveló Judas al criticar a María por derramar perfume costoso sobre Jesús?",
+        "choices": [
+          "Amor verdadero por los pobres",
+          "El perfume era demasiado barato.",
+          "Hipocresía que ocultaba codicia y cálculo tras palabras piadosas",
+          "Todo servicio a Jesús es desperdicio."
+        ],
+        "explanation": "Judas hablaba como si cuidara a los pobres, pero lo movía la codicia. Las palabras religiosas deben coincidir con los motivos y la vida."
+      }
+    },
+    {
+      "id": "remote-gospels-090",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "예수님께서 나귀를 타고 예루살렘에 들어가신 모습이 나타내는 왕의 성품은 무엇입니까?",
+        "choices": [
+          "무력으로 정복하는 왕",
+          "부를 과시하는 왕",
+          "로마의 권력을 대신하는 왕",
+          "겸손과 평화로 오시는 메시아 왕"
+        ],
+        "explanation": "예수님은 군마가 아니라 나귀를 타심으로 구약의 예언대로 겸손한 평화의 왕으로 오셨습니다. 사람들이 기대한 정치적 정복자가 아니라 죄와 사망에서 구원하시는 메시아이십니다."
+      },
+      "en": {
+        "question": "What kind of king was revealed when Jesus entered Jerusalem riding on a donkey?",
+        "choices": [
+          "A king who conquers by force",
+          "A king who displays wealth",
+          "A king who replaces Roman power",
+          "The Messiah-King who comes in humility and peace"
+        ],
+        "explanation": "By riding a donkey rather than a warhorse, Jesus fulfilled prophecy as a humble king of peace. He was not the political conqueror people expected, but the Messiah who saves from sin and death."
+      },
+      "es": {
+        "question": "¿Qué clase de rey reveló Jesús al entrar en Jerusalén sobre un asno?",
+        "choices": [
+          "Un rey conquistador por la fuerza",
+          "Un rey que exhibe riqueza",
+          "Un rey que reemplaza a Roma",
+          "El Rey Mesías que viene con humildad y paz"
+        ],
+        "explanation": "Jesús cumplió la profecía como Rey humilde de paz. No era el conquistador político esperado, sino el Mesías que salva del pecado y la muerte."
+      }
+    },
+    {
+      "id": "remote-gospels-091",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "예수님께서 열매 없는 무화과나무를 책망하신 사건이 상징하는 것은 무엇입니까?",
+        "choices": [
+          "잎만 무성하고 믿음의 열매가 없는 신앙에 대한 경고",
+          "나무를 심는 일이 잘못이라는 뜻",
+          "무화과를 먹어서는 안 된다는 뜻",
+          "계절을 판단하는 방법"
+        ],
+        "explanation": "겉으로 잎은 무성하지만 열매가 없는 나무처럼 종교적 외형은 있어도 회개와 믿음의 열매가 없을 수 있습니다. 하나님은 겉모습이 아니라 실제 열매를 찾으십니다."
+      },
+      "en": {
+        "question": "What did Jesus' judgment of the fruitless fig tree symbolize?",
+        "choices": [
+          "A warning against a faith full of outward leaves but lacking spiritual fruit",
+          "A teaching that planting trees is wrong",
+          "A prohibition against eating figs",
+          "A method for identifying the season"
+        ],
+        "explanation": "Like a tree full of leaves but without fruit, religion can have an impressive appearance yet lack repentance and faith. God seeks real fruit, not outward display."
+      },
+      "es": {
+        "question": "¿Qué simbolizó la reprensión de la higuera sin fruto?",
+        "choices": [
+          "Una advertencia contra la fe de mucha apariencia y ningún fruto",
+          "Que plantar árboles es malo",
+          "Que no deben comerse higos",
+          "Una forma de reconocer la estación"
+        ],
+        "explanation": "Como el árbol lleno de hojas sin fruto, la religión puede parecer abundante y carecer de arrepentimiento y fe. Dios busca fruto real."
+      }
+    },
+    {
+      "id": "remote-gospels-092",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "예수님께서 성전을 정결하게 하시며 책망하신 것은 무엇입니까?",
+        "choices": [
+          "성전에 사람이 많이 모인 것",
+          "기도하는 집을 이익과 욕심을 채우는 장소로 만든 것",
+          "제물을 드린 것 자체",
+          "성전에서 병자를 고친 것"
+        ],
+        "explanation": "종교 지도자들은 예배와 제사를 이용해 자신의 이익을 추구했습니다. 하나님을 섬기는 장소와 행위가 욕심을 위한 수단으로 바뀔 때 신앙의 본질이 훼손됩니다."
+      },
+      "en": {
+        "question": "What did Jesus condemn when he cleansed the temple?",
+        "choices": [
+          "The presence of a large crowd",
+          "Turning a house of prayer into a place for profit and greed",
+          "The act of offering sacrifices itself",
+          "Healing sick people in the temple"
+        ],
+        "explanation": "Religious leaders used worship and sacrifice for personal gain. Faith is corrupted when service to God becomes a means of satisfying greed."
+      },
+      "es": {
+        "question": "¿Qué condenó Jesús al limpiar el templo?",
+        "choices": [
+          "La presencia de una multitud",
+          "Convertir la casa de oración en un lugar de lucro y codicia",
+          "El acto mismo de sacrificar",
+          "Sanar enfermos en el templo"
+        ],
+        "explanation": "Los dirigentes usaban el culto para obtener ganancias. La fe se corrompe cuando el servicio a Dios se convierte en instrumento de codicia."
+      }
+    },
+    {
+      "id": "remote-gospels-093",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "악한 농부의 비유에서 주인의 아들까지 죽인 농부들은 누구의 모습을 나타냅니까?",
+        "choices": [
+          "로마의 군인들만",
+          "정직하게 일한 제자들",
+          "하나님의 말씀과 아들을 거부한 종교 지도자들",
+          "포도원을 처음 만든 사람들"
+        ],
+        "explanation": "하나님은 선지자들을 보내셨지만 백성은 그들을 거부했고 마침내 아들이신 예수님까지 배척했습니다. 하나님의 것을 자기 소유처럼 여기며 주인의 권위를 거부한 지도자들의 죄를 드러냅니다."
+      },
+      "en": {
+        "question": "In the parable of the wicked tenants, whom do the tenants who even killed the owner's son represent?",
+        "choices": [
+          "Roman soldiers only",
+          "Disciples who worked honestly",
+          "Religious leaders who rejected God's word and his Son",
+          "The people who first planted the vineyard"
+        ],
+        "explanation": "God sent prophets, but the people rejected them and finally rejected Jesus, God's Son. The parable exposes leaders who treated God's possession as their own and rejected the owner's authority."
+      },
+      "es": {
+        "question": "En la parábola de los labradores malvados, ¿a quiénes representan los que mataron incluso al hijo del dueño?",
+        "choices": [
+          "Solo a los soldados romanos",
+          "A los discípulos honestos",
+          "A los dirigentes religiosos que rechazaron la palabra de Dios y a su Hijo",
+          "A quienes plantaron primero la viña"
+        ],
+        "explanation": "Dios envió profetas, pero fueron rechazados, y finalmente también rechazaron a Jesús. La parábola denuncia a los dirigentes que trataron lo de Dios como propio."
+      }
+    },
+    {
+      "id": "remote-gospels-094",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "혼인 잔치 비유에서 예복을 입지 않은 사람이 쫓겨난 사건이 주는 경고는 무엇입니까?",
+        "choices": [
+          "값비싼 옷이 있어야 구원받는다",
+          "혼인 잔치에는 가족만 참석해야 한다",
+          "가난한 사람은 잔치에 들어갈 수 없다",
+          "초대받았다는 사실만 믿고 합당한 믿음의 준비가 없어서는 안 된다"
+        ],
+        "explanation": "하나님의 초청은 넓게 주어지지만 초청을 가볍게 여기고 아무 준비 없이 참여하는 태도는 참된 믿음이 아닙니다. 외형적으로 공동체 안에 있는 것과 하나님께 합당한 사람으로 서는 것은 다를 수 있습니다."
+      },
+      "en": {
+        "question": "What warning comes from the man without wedding clothes being expelled in the parable of the wedding banquet?",
+        "choices": [
+          "Salvation requires expensive clothes.",
+          "Only family members may attend the wedding.",
+          "Poor people cannot enter the banquet.",
+          "Being invited is not enough if one lacks a fitting response of faith."
+        ],
+        "explanation": "God's invitation is wide, but treating it lightly and coming without preparation is not genuine faith. Outward membership in the community is not always the same as standing rightly before God."
+      },
+      "es": {
+        "question": "¿Qué advertencia da el hombre expulsado por no llevar traje de boda?",
+        "choices": [
+          "La salvación exige ropa costosa.",
+          "Solo la familia puede asistir.",
+          "Los pobres no pueden entrar.",
+          "No basta con ser invitado si falta una respuesta de fe adecuada."
+        ],
+        "explanation": "La invitación de Dios es amplia, pero tomarla a la ligera no es fe verdadera. Pertenecer externamente a la comunidad no equivale a estar bien ante Dios."
+      }
+    },
+    {
+      "id": "remote-gospels-095",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "“가이사의 것은 가이사에게, 하나님의 것은 하나님께 바치라”는 말씀의 뜻은 무엇입니까?",
+        "choices": [
+          "세상에 대한 책임과 하나님께 대한 의무를 바르게 분별하라는 뜻이다",
+          "세금을 내지 말라는 뜻이다",
+          "정치 권력은 언제나 하나님의 뜻이라는 뜻이다",
+          "돈만 하나님께 드리면 된다는 뜻이다"
+        ],
+        "explanation": "예수님은 함정에 빠뜨리려는 질문에 대해 세상 질서 안에서의 책임을 인정하면서도 인간 전체가 하나님의 것임을 일깨우셨습니다. 성도는 사회적 책임과 하나님께 대한 충성을 바르게 분별해야 합니다."
+      },
+      "en": {
+        "question": "What does “Give to Caesar what is Caesar's, and to God what is God's” mean?",
+        "choices": [
+          "Properly discern our responsibilities in society and our duty to God.",
+          "Do not pay taxes.",
+          "Political power always represents God's will.",
+          "Only money needs to be given to God."
+        ],
+        "explanation": "Jesus acknowledged responsibilities within earthly society while reminding his hearers that the whole person belongs to God. Believers must discern both social responsibility and loyalty to God."
+      },
+      "es": {
+        "question": "¿Qué significa «Dad al César lo que es del César, y a Dios lo que es de Dios»?",
+        "choices": [
+          "Discernir correctamente nuestras responsabilidades sociales y nuestro deber hacia Dios",
+          "No pagar impuestos",
+          "Que todo poder político expresa la voluntad de Dios",
+          "Que solo debemos dar dinero a Dios"
+        ],
+        "explanation": "Jesús reconoció las responsabilidades terrenales y recordó que la persona entera pertenece a Dios. Debemos discernir la responsabilidad social y la fidelidad a Dios."
+      }
+    },
+    {
+      "id": "remote-gospels-096",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "부활을 부정하는 사두개인들의 질문에 예수님께서 가르치신 핵심은 무엇입니까?",
+        "choices": [
+          "부활 후의 삶은 현재의 제도를 그대로 반복한다",
+          "하나님은 죽은 자의 하나님이 아니라 산 자의 하나님이시다",
+          "사람은 죽으면 완전히 사라진다",
+          "천사는 사람과 결혼한다"
+        ],
+        "explanation": "사두개인들은 부활의 세계를 이 땅의 결혼 제도로만 계산하려 했습니다. 예수님은 하나님의 능력과 성경을 알지 못한 오해를 지적하시며 하나님 안에서 생명이 계속됨을 가르치셨습니다."
+      },
+      "en": {
+        "question": "What central truth did Jesus teach in response to the Sadducees, who denied the resurrection?",
+        "choices": [
+          "Life after resurrection simply repeats present institutions.",
+          "God is not the God of the dead but of the living.",
+          "People cease to exist completely at death.",
+          "Angels marry human beings."
+        ],
+        "explanation": "The Sadducees tried to understand resurrection only through earthly marriage. Jesus corrected their ignorance of Scripture and God's power and taught that life continues in God."
+      },
+      "es": {
+        "question": "¿Qué verdad central enseñó Jesús a los saduceos que negaban la resurrección?",
+        "choices": [
+          "La vida resucitada repite exactamente las instituciones actuales.",
+          "Dios no es Dios de muertos, sino de vivos.",
+          "La persona desaparece por completo al morir.",
+          "Los ángeles se casan con seres humanos."
+        ],
+        "explanation": "Los saduceos intentaron entender la resurrección solo mediante el matrimonio terrenal. Jesús corrigió su desconocimiento de las Escrituras y del poder de Dios."
+      }
+    },
+    {
+      "id": "remote-gospels-097",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "예수님께서 말씀하신 가장 큰 계명 두 가지는 무엇입니까?",
+        "choices": [
+          "금식과 헌금",
+          "성전 봉사와 절기 준수",
+          "하나님 사랑과 이웃 사랑",
+          "지식과 능력"
+        ],
+        "explanation": "마음과 목숨과 뜻을 다해 하나님을 사랑하고 이웃을 자신과 같이 사랑하는 것이 율법과 선지자의 핵심입니다. 하나님 사랑은 이웃을 대하는 삶과 분리될 수 없습니다."
+      },
+      "en": {
+        "question": "What are the two greatest commandments identified by Jesus?",
+        "choices": [
+          "Fasting and giving",
+          "Temple service and festival observance",
+          "Love for God and love for one's neighbor",
+          "Knowledge and power"
+        ],
+        "explanation": "The heart of the Law and the Prophets is to love God with all one's heart, soul, and mind and to love one's neighbor as oneself. Love for God cannot be separated from how we treat others."
+      },
+      "es": {
+        "question": "¿Cuáles son los dos mandamientos más grandes?",
+        "choices": [
+          "Ayunar y ofrendar",
+          "Servir en el templo y guardar fiestas",
+          "Amar a Dios y amar al prójimo",
+          "Conocimiento y poder"
+        ],
+        "explanation": "El centro de la Ley y los Profetas es amar plenamente a Dios y al prójimo como a uno mismo. Ambos amores son inseparables."
+      }
+    },
+    {
+      "id": "remote-gospels-098",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "과부가 두 렙돈을 드린 것을 예수님께서 크게 보신 이유는 무엇입니까?",
+        "choices": [
+          "동전의 가치가 가장 컸기 때문에",
+          "다른 사람보다 공개적으로 드렸기 때문에",
+          "과부만 헌금할 수 있기 때문에",
+          "적은 액수였지만 자신의 생활비 전부를 드리는 마음이 담겼기 때문에"
+        ],
+        "explanation": "부자들은 풍족한 중 일부를 드렸지만 과부는 가난한 가운데 가진 전부를 드렸습니다. 하나님은 겉으로 보이는 액수보다 드리는 사람의 믿음과 중심을 보십니다."
+      },
+      "en": {
+        "question": "Why did Jesus value the widow's offering of two small coins so highly?",
+        "choices": [
+          "The coins had the greatest monetary value.",
+          "She gave more publicly than others.",
+          "Only widows were permitted to give.",
+          "The amount was small, but she gave all she had to live on."
+        ],
+        "explanation": "The rich gave a portion of their abundance, but the poor widow gave everything she had. God sees the faith and heart of the giver rather than only the visible amount."
+      },
+      "es": {
+        "question": "¿Por qué valoró tanto Jesús las dos pequeñas monedas de la viuda?",
+        "choices": [
+          "Tenían el mayor valor.",
+          "Las dio más públicamente.",
+          "Solo las viudas podían ofrendar.",
+          "Aunque era poco, dio todo lo que tenía para vivir."
+        ],
+        "explanation": "Los ricos dieron de su abundancia, pero ella dio todo. Dios mira la fe y el corazón, no solo la cantidad visible."
+      }
+    },
+    {
+      "id": "remote-gospels-099",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "열 처녀 비유에서 슬기로운 처녀와 미련한 처녀를 가른 것은 무엇입니까?",
+        "choices": [
+          "기다리는 동안 필요한 기름을 준비했는가",
+          "신랑이 오는 정확한 날짜를 알았는가",
+          "잔치 장소를 먼저 차지했는가",
+          "다른 사람보다 오래 잠을 자지 않았는가"
+        ],
+        "explanation": "모두 신랑을 기다렸고 모두 잠들었지만 준비의 유무가 결과를 갈랐습니다. 주님의 오심을 말로만 기다리지 말고 언제 오시더라도 맞을 수 있는 믿음의 삶을 준비해야 합니다."
+      },
+      "en": {
+        "question": "What distinguished the wise virgins from the foolish virgins in Jesus' parable?",
+        "choices": [
+          "Whether they had prepared the oil needed while they waited",
+          "Whether they knew the exact date of the bridegroom's arrival",
+          "Whether they claimed the banquet hall first",
+          "Whether they stayed awake longer than everyone else"
+        ],
+        "explanation": "All waited and all fell asleep, but their preparation determined the outcome. We should prepare a life of faith that can welcome the Lord whenever he comes."
+      },
+      "es": {
+        "question": "¿Qué distinguió a las vírgenes prudentes de las insensatas?",
+        "choices": [
+          "Haber preparado el aceite necesario mientras esperaban",
+          "Conocer la fecha exacta de la llegada",
+          "Ocupar primero el salón",
+          "Permanecer despiertas más tiempo"
+        ],
+        "explanation": "Todas esperaron y durmieron, pero la preparación cambió el resultado. Debemos vivir preparados para recibir al Señor cuando venga."
+      }
+    },
+    {
+      "id": "remote-gospels-100",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "달란트 비유에서 한 달란트를 받은 종이 책망받은 이유는 무엇입니까?",
+        "choices": [
+          "다른 종보다 적게 받았기 때문에",
+          "받은 것을 주인을 위해 사용하지 않고 두려움 속에 묻어두었기 때문에",
+          "손해를 많이 보았기 때문에",
+          "주인에게 돌려주지 않았기 때문에"
+        ],
+        "explanation": "주인은 종마다 감당할 수 있는 만큼 맡겼고 결과의 크기보다 충성을 보았습니다. 받은 것이 적다고 비교하거나 두려워하지 말고 맡겨진 것을 하나님을 위해 사용해야 합니다."
+      },
+      "en": {
+        "question": "Why was the servant who received one talent rebuked?",
+        "choices": [
+          "He had received less than the other servants.",
+          "He buried what he received in fear instead of using it for his master.",
+          "He lost a great deal.",
+          "He failed to return it to the master."
+        ],
+        "explanation": "The master entrusted each servant with what he could manage and looked for faithfulness rather than equal results. We should use what God has entrusted to us instead of comparing or hiding in fear."
+      },
+      "es": {
+        "question": "¿Por qué fue reprendido el siervo que recibió un talento?",
+        "choices": [
+          "Porque recibió menos",
+          "Porque enterró por miedo lo recibido en vez de usarlo para su señor",
+          "Porque sufrió grandes pérdidas",
+          "Porque no lo devolvió"
+        ],
+        "explanation": "El amo encargó a cada uno según su capacidad y buscó fidelidad. Debemos usar lo confiado por Dios sin compararnos ni escondernos por miedo."
+      }
+    },
+    {
+      "id": "remote-gospels-101",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "마태복음 25장 양과 염소 비유에서 주님께 한 것으로 인정된 행동은 무엇입니까?",
+        "choices": [
+          "높은 지위를 얻은 것",
+          "많은 지식을 쌓은 것",
+          "지극히 작은 자의 필요를 돌본 것",
+          "사람들에게 칭찬받은 것"
+        ],
+        "explanation": "굶주리고 목마르고 병들고 갇힌 사람을 돌본 행동을 예수님은 자신에게 한 것으로 받으셨습니다. 참된 믿음은 도움이 필요한 이웃을 향한 사랑의 행동으로 나타납니다."
+      },
+      "en": {
+        "question": "In the parable of the sheep and the goats in Matthew 25, what action did the Lord regard as having been done for him?",
+        "choices": [
+          "Gaining a high position",
+          "Accumulating extensive knowledge",
+          "Caring for the needs of the least of people",
+          "Receiving praise from others"
+        ],
+        "explanation": "Jesus received care shown to the hungry, thirsty, sick, imprisoned, and vulnerable as care shown to him. Genuine faith acts in love toward neighbors in need."
+      },
+      "es": {
+        "question": "En la parábola de las ovejas y los cabritos de Mateo 25, ¿qué acción consideró el Señor como hecha a él mismo?",
+        "choices": [
+          "Obtener una posición elevada",
+          "Acumular conocimientos",
+          "Atender las necesidades de los más pequeños",
+          "Recibir elogios"
+        ],
+        "explanation": "Jesús recibió el cuidado de los hambrientos, enfermos, presos y vulnerables como cuidado ofrecido a él. La fe verdadera actúa con amor."
+      }
+    },
+    {
+      "id": "remote-gospels-102",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "예수님께서 최후의 만찬에서 떡과 잔을 나누신 의미는 무엇입니까?",
+        "choices": [
+          "제자들과의 평범한 작별 식사",
+          "제자들의 지위를 정하는 절차",
+          "유월절을 폐지하기 위한 의식",
+          "죄 사함을 위해 내어주실 몸과 흘리실 피를 기억하게 하는 새 언약"
+        ],
+        "explanation": "떡은 내어주실 예수님의 몸을, 잔은 죄 사함을 위해 흘리실 피를 가리킵니다. 성찬은 십자가의 희생으로 세우신 새 언약과 구원의 은혜를 기억하게 합니다."
+      },
+      "en": {
+        "question": "What was the meaning of Jesus sharing the bread and cup at the Last Supper?",
+        "choices": [
+          "It was an ordinary farewell meal.",
+          "It established the disciples' rank.",
+          "It abolished Passover.",
+          "It established the new covenant, remembering his body given and blood shed for forgiveness."
+        ],
+        "explanation": "The bread represents Jesus' body given for us, and the cup his blood shed for forgiveness. Communion remembers the new covenant and saving grace established through the cross."
+      },
+      "es": {
+        "question": "¿Qué significaron el pan y la copa en la Última Cena?",
+        "choices": [
+          "Una despedida común",
+          "Un procedimiento para fijar rangos",
+          "La abolición de la Pascua",
+          "El nuevo pacto que recuerda su cuerpo entregado y su sangre derramada para el perdón"
+        ],
+        "explanation": "El pan representa su cuerpo y la copa su sangre. La Cena recuerda el nuevo pacto y la gracia salvadora establecidos en la cruz."
+      }
+    },
+    {
+      "id": "remote-gospels-103",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "예수님께서 제자들의 발을 씻기신 행동으로 가르치신 것은 무엇입니까?",
+        "choices": [
+          "주님을 따르는 사람은 낮아져 서로 섬겨야 한다",
+          "지도자는 섬김을 받을 권리만 있다",
+          "발을 씻는 의식만 지키면 된다",
+          "제자들 가운데 가장 높은 사람을 정해야 한다"
+        ],
+        "explanation": "스승이신 예수님께서 종이 하던 일을 맡아 제자들의 발을 씻기셨습니다. 주님의 제자는 지위를 내세우기보다 자신을 낮추어 다른 사람을 섬겨야 합니다."
+      },
+      "en": {
+        "question": "What did Jesus teach by washing his disciples' feet?",
+        "choices": [
+          "Those who follow the Lord must humble themselves and serve one another.",
+          "Leaders have only the right to be served.",
+          "Observing the foot-washing ritual is all that matters.",
+          "The highest-ranking disciple must be selected."
+        ],
+        "explanation": "Jesus, their teacher, performed a servant's task by washing their feet. His disciples should not insist on status, but humble themselves and serve others."
+      },
+      "es": {
+        "question": "¿Qué enseñó Jesús al lavar los pies de sus discípulos?",
+        "choices": [
+          "Quienes siguen al Señor deben humillarse y servirse unos a otros.",
+          "Los dirigentes solo tienen derecho a ser servidos.",
+          "Basta con repetir el rito.",
+          "Debe elegirse al discípulo de mayor rango."
+        ],
+        "explanation": "Jesús asumió la tarea de un siervo. Sus discípulos deben renunciar al orgullo de posición y servir a otros."
+      }
+    },
+    {
+      "id": "remote-gospels-104",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "포도나무와 가지 비유에서 가지가 열매 맺기 위한 필수 조건은 무엇입니까?",
+        "choices": [
+          "다른 가지보다 길어지는 것",
+          "포도나무이신 예수님 안에 거하는 것",
+          "스스로 뿌리를 만드는 것",
+          "열매의 수를 먼저 정하는 것"
+        ],
+        "explanation": "가지는 나무에서 떨어지면 스스로 열매를 맺을 수 없습니다. 성도 역시 자기 힘으로 신앙의 열매를 만들 수 없으며 말씀과 사랑 안에서 예수님과 연결되어 있어야 합니다."
+      },
+      "en": {
+        "question": "In the parable of the vine and branches, what is essential for a branch to bear fruit?",
+        "choices": [
+          "Growing longer than the other branches",
+          "Remaining in Jesus, the true vine",
+          "Creating its own roots",
+          "Deciding in advance how much fruit to bear"
+        ],
+        "explanation": "A branch separated from the vine cannot bear fruit by itself. Believers likewise cannot produce spiritual fruit by their own strength; they must remain joined to Jesus in his word and love."
+      },
+      "es": {
+        "question": "En la parábola de la vid y los pámpanos, ¿qué necesita un pámpano para dar fruto?",
+        "choices": [
+          "Ser más largo que los demás",
+          "Permanecer en Jesús, la vid verdadera",
+          "Crear sus propias raíces",
+          "Decidir de antemano cuánto fruto dará"
+        ],
+        "explanation": "Separado de la vid, el pámpano no da fruto. El creyente debe permanecer unido a Jesús en su palabra y amor."
+      }
+    },
+    {
+      "id": "remote-gospels-105",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "겟세마네에서 예수님께서 “내 원대로 마시옵고 아버지의 원대로 하옵소서”라고 기도하신 모습이 보여주는 것은 무엇입니까?",
+        "choices": [
+          "고통을 느끼지 않으셨다는 것",
+          "기도하면 십자가를 피할 수 있다는 것",
+          "자신의 뜻과 고통을 솔직히 아뢰면서도 하나님의 뜻에 순종하신 것",
+          "제자들의 도움만을 구하셨다는 것"
+        ],
+        "explanation": "예수님은 다가올 고통 앞에서 슬픔과 두려움을 숨기지 않으셨지만 마지막에는 아버지의 뜻을 선택하셨습니다. 참된 기도는 자기 소원을 말하는 데서 끝나지 않고 하나님의 뜻에 자신을 맡기는 것입니다."
+      },
+      "en": {
+        "question": "What did Jesus show by praying in Gethsemane, “Not my will, but yours be done”?",
+        "choices": [
+          "He felt no pain.",
+          "Prayer could help him avoid the cross.",
+          "He honestly expressed his desire and suffering yet submitted to God's will.",
+          "He sought only the disciples' help."
+        ],
+        "explanation": "Jesus did not hide his sorrow before the coming suffering, but ultimately chose the Father's will. True prayer goes beyond expressing desire and entrusts the self to God's will."
+      },
+      "es": {
+        "question": "¿Qué mostró Jesús al orar en Getsemaní «No se haga mi voluntad, sino la tuya»?",
+        "choices": [
+          "Que no sentía dolor",
+          "Que la oración evitaría la cruz",
+          "Que expresó sinceramente su sufrimiento y aun así se sometió a la voluntad de Dios",
+          "Que buscó solo la ayuda de los discípulos"
+        ],
+        "explanation": "Jesús no ocultó su tristeza, pero eligió la voluntad del Padre. La oración verdadera entrega el propio ser a la voluntad de Dios."
+      }
+    },
+    {
+      "id": "remote-gospels-106",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "예수님이 체포되실 때 베드로가 칼을 사용한 행동을 예수님께서 막으신 이유는 무엇입니까?",
+        "choices": [
+          "제자들이 칼을 사용할 줄 몰랐기 때문에",
+          "예수님께서 체포 사실을 모르셨기 때문에",
+          "로마 군인이 더 많았기 때문에",
+          "하나님의 구원 계획은 폭력으로 이루어지는 것이 아니기 때문에"
+        ],
+        "explanation": "예수님은 힘이 없어서 잡히신 것이 아니라 성경과 하나님의 뜻을 이루기 위해 자원하여 순종하셨습니다. 인간적인 폭력은 십자가를 통한 구원의 길을 대신할 수 없습니다."
+      },
+      "en": {
+        "question": "Why did Jesus stop Peter from using a sword when he was arrested?",
+        "choices": [
+          "The disciples did not know how to use swords.",
+          "Jesus did not know he would be arrested.",
+          "There were more Roman soldiers.",
+          "God's plan of salvation would not be accomplished through violence."
+        ],
+        "explanation": "Jesus was not arrested because he lacked power; he willingly obeyed to fulfill Scripture and God's will. Human violence cannot replace salvation through the cross."
+      },
+      "es": {
+        "question": "¿Por qué impidió Jesús que Pedro usara la espada durante el arresto?",
+        "choices": [
+          "Los discípulos no sabían usarla.",
+          "Jesús desconocía el arresto.",
+          "Había más soldados romanos.",
+          "El plan de salvación de Dios no se cumpliría mediante la violencia."
+        ],
+        "explanation": "Jesús se entregó voluntariamente para cumplir las Escrituras. La violencia humana no puede sustituir la salvación por la cruz."
+      }
+    },
+    {
+      "id": "remote-gospels-107",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "베드로가 예수님을 세 번 부인한 사건이 주는 중요한 교훈은 무엇입니까?",
+        "choices": [
+          "자기 확신만으로는 시험을 이길 수 없으며 주님의 은혜가 필요하다",
+          "강한 결심만 있으면 어떤 시험도 이긴다",
+          "한 번 실패하면 다시 제자가 될 수 없다",
+          "두려움은 믿음과 아무 관계가 없다"
+        ],
+        "explanation": "베드로는 모두 주님을 버려도 자신은 주님을 버리지 않겠다고 장담했지만 두려움 앞에서 무너졌습니다. 자신의 의지를 과신하지 말고 깨어 기도하며 주님의 도우심을 의지해야 합니다."
+      },
+      "en": {
+        "question": "What important lesson comes from Peter denying Jesus three times?",
+        "choices": [
+          "Self-confidence alone cannot overcome temptation; we need the Lord's grace.",
+          "Strong determination always overcomes every trial.",
+          "Anyone who fails once can never become a disciple again.",
+          "Fear has no connection to faith."
+        ],
+        "explanation": "Peter confidently claimed he would never abandon Jesus, yet collapsed in fear. We must not overestimate our willpower, but stay watchful, pray, and depend on the Lord's help."
+      },
+      "es": {
+        "question": "¿Qué lección importante deja la triple negación de Pedro?",
+        "choices": [
+          "La confianza propia no vence la prueba; necesitamos la gracia del Señor.",
+          "Una decisión firme siempre vence.",
+          "Quien falla una vez nunca vuelve a ser discípulo.",
+          "El temor no se relaciona con la fe."
+        ],
+        "explanation": "Pedro aseguró que nunca abandonaría a Jesús, pero cayó por miedo. Debemos velar, orar y depender de la ayuda del Señor."
+      }
+    },
+    {
+      "id": "remote-gospels-108",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "빌라도가 예수님의 무죄를 알면서도 십자가형을 허락한 이유는 무엇입니까?",
+        "choices": [
+          "예수님에게서 실제 반역죄를 발견해서",
+          "진리와 정의보다 군중의 압력과 자신의 지위를 지키려 했기 때문에",
+          "유대 율법을 정확히 지키기 위해서",
+          "헤롯의 명령을 반드시 따라야 해서"
+        ],
+        "explanation": "빌라도는 예수님에게서 죽일 죄를 찾지 못했지만 민란과 정치적 불이익을 두려워했습니다. 옳음을 알면서도 자기 안전과 이익을 앞세우면 불의에 동참할 수 있습니다."
+      },
+      "en": {
+        "question": "Why did Pilate authorize Jesus' crucifixion even though he knew Jesus was innocent?",
+        "choices": [
+          "He found Jesus guilty of rebellion.",
+          "He valued the crowd's pressure and his own position above truth and justice.",
+          "He wanted to obey Jewish law precisely.",
+          "He was required to follow Herod's order."
+        ],
+        "explanation": "Pilate found no crime deserving death, but feared unrest and political loss. When personal security and advantage come first, a person may join injustice despite knowing what is right."
+      },
+      "es": {
+        "question": "¿Por qué autorizó Pilato la crucifixión aunque sabía que Jesús era inocente?",
+        "choices": [
+          "Halló un delito real de rebelión.",
+          "Puso la presión de la multitud y su posición por encima de la verdad y la justicia.",
+          "Quiso obedecer exactamente la ley judía.",
+          "Debía cumplir una orden de Herodes."
+        ],
+        "explanation": "Pilato no halló culpa digna de muerte, pero temió disturbios y pérdidas políticas. La búsqueda de seguridad personal puede hacernos participar en la injusticia."
+      }
+    },
+    {
+      "id": "remote-gospels-109",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "십자가에 달리신 예수님께서 자신을 못 박은 사람들을 위해 용서를 구하신 말씀은 무엇을 보여줍니까?",
+        "choices": [
+          "죄에는 책임이 없다는 것",
+          "고난이 실제가 아니었다는 것",
+          "원수 사랑과 용서를 친히 실천하신 것",
+          "모든 사람이 자동으로 회개했다는 것"
+        ],
+        "explanation": "예수님은 원수를 사랑하고 핍박하는 자를 위해 기도하라는 가르침을 십자가에서 직접 행하셨습니다. 가장 큰 고통 속에서도 죄인을 향한 사랑과 구원의 뜻을 나타내셨습니다."
+      },
+      "en": {
+        "question": "What did Jesus show by asking forgiveness for those who crucified him?",
+        "choices": [
+          "Sin carries no responsibility.",
+          "His suffering was not real.",
+          "He personally practiced love for enemies and forgiveness.",
+          "Everyone automatically repented."
+        ],
+        "explanation": "On the cross Jesus lived out his teaching to love enemies and pray for persecutors. Even in extreme suffering, he revealed love for sinners and the purpose of salvation."
+      },
+      "es": {
+        "question": "¿Qué mostró Jesús al pedir perdón por quienes lo crucificaban?",
+        "choices": [
+          "El pecado no implica responsabilidad.",
+          "Su sufrimiento no era real.",
+          "Practicó personalmente el amor a los enemigos y el perdón.",
+          "Todos se arrepintieron automáticamente."
+        ],
+        "explanation": "Jesús vivió en la cruz su enseñanza de amar a los enemigos. En el mayor sufrimiento mostró su amor por los pecadores."
+      }
+    },
+    {
+      "id": "remote-gospels-110",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "예수님의 무덤을 찾아간 여인들이 부활 소식을 처음 들은 사실에서 알 수 있는 것은 무엇입니까?",
+        "choices": [
+          "부활은 제자들이 미리 꾸민 일이었다",
+          "여인들은 처음부터 부활을 완전히 믿고 있었다",
+          "무덤에는 아무도 갈 필요가 없었다",
+          "절망 속에서도 주님을 향해 나아간 사람들에게 부활의 소식이 주어졌다"
+        ],
+        "explanation": "여인들은 부활을 확신해서가 아니라 슬픔 가운데서도 예수님을 섬기려 무덤을 찾았습니다. 하나님은 그들에게 빈 무덤과 부활의 소식을 먼저 알게 하셨습니다."
+      },
+      "en": {
+        "question": "What can we learn from the women at the tomb being the first to hear the news of the resurrection?",
+        "choices": [
+          "The disciples had planned the resurrection in advance.",
+          "The women had fully believed in the resurrection from the beginning.",
+          "No one needed to visit the tomb.",
+          "The news of resurrection was given to those who continued toward the Lord even in despair."
+        ],
+        "explanation": "The women went not because they expected resurrection, but to serve Jesus despite their grief. God allowed them to discover the empty tomb and hear the news first."
+      },
+      "es": {
+        "question": "¿Qué aprendemos de que las mujeres del sepulcro fueran las primeras en oír la noticia de la resurrección?",
+        "choices": [
+          "Los discípulos la habían planeado.",
+          "Ellas ya creían plenamente.",
+          "Nadie necesitaba visitar el sepulcro.",
+          "La noticia fue dada a quienes siguieron acercándose al Señor aun en la desesperación."
+        ],
+        "explanation": "Fueron a servir a Jesús pese al dolor, no porque esperaran la resurrección. Dios les permitió conocer primero el sepulcro vacío."
+      }
+    },
+    {
+      "id": "remote-gospels-111",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "부활하신 예수님께서 막달라 마리아에게 “나를 붙들지 말라”고 하신 이유는 무엇입니까?",
+        "choices": [
+          "부활하신 예수님께서 이전과는 다른 상태가 되셨음을 인식시키시기 위해",
+          "마리아로 인해 부정해지는 것을 피하시기 위해",
+          "마리아가 예수님의 음성을 알아듣지 못했기 때문에",
+          "부활하신 예수님은 누구도 만질 수 없기 때문에"
+        ],
+        "explanation": "예수님께서는 마리아로 인해 부정해지는 것을 피하려고 하신 것이 아닙니다. 마리아에게 부활하신 예수님께서 이전과는 다른 상태가 되셨음을 인식시키시고, 제자들에게 부활의 소식을 전하는 역할을 맡기신 것입니다."
+      },
+      "en": {
+        "question": "Why did the risen Jesus tell Mary Magdalene, “Do not hold on to me”?",
+        "choices": [
+          "To help her understand that after his resurrection, he was in a different state than before",
+          "To avoid becoming unclean because of Mary",
+          "Because Mary did not recognize Jesus’ voice",
+          "Because no one could touch the risen Jesus"
+        ],
+        "explanation": "Jesus was not trying to avoid becoming unclean because of Mary. He wanted her to understand that after his resurrection, he was in a different state than before, and he entrusted her with the task of telling the disciples the news of his resurrection."
+      },
+      "es": {
+        "question": "¿Por qué Jesús resucitado le dijo a María Magdalena: «No me retengas»?",
+        "choices": [
+          "Para ayudarla a comprender que, después de su resurrección, se encontraba en un estado diferente al de antes",
+          "Para evitar quedar impuro por causa de María",
+          "Porque María no reconoció la voz de Jesús",
+          "Porque nadie podía tocar a Jesús resucitado"
+        ],
+        "explanation": "Jesús no estaba tratando de evitar quedar impuro por causa de María. Quería que ella comprendiera que, después de su resurrección, se encontraba en un estado diferente al de antes, y le encomendó la tarea de anunciar a los discípulos la noticia de su resurrección."
+      }
+    },
+    {
+      "id": "remote-gospels-112",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "엠마오로 가던 두 제자가 예수님 가까이에서 대화하면서도 주님을 알아보지 못한 이유는 무엇입니까?",
+        "choices": [
+          "부활하신 예수님의 모습이 완전히 달라졌기 때문에",
+          "그들의 영적인 눈이 가리워져 예수님을 깨닫지 못했기 때문에",
+          "두 제자가 예수님의 음성을 들어본 적이 없었기 때문에",
+          "예루살렘을 떠난 사람에게는 예수님이 나타나지 않으시기 때문에"
+        ],
+        "explanation": "두 제자는 예수님과 가까이에서 대화하면서도 영적인 눈이 가리워져 주님을 알아보지 못했습니다. 이는 익숙한 말씀의 영적 진리를 깨닫는 것조차 우리의 힘과 능력으로 되는 것이 아니며, 자신의 믿음 없음과 연약함을 깨달을 때 하나님의 은혜를 구하고 주님을 의지하게 된다는 것을 보여 줍니다."
+      },
+      "en": {
+        "question": "Why did the two disciples on the road to Emmaus fail to recognize Jesus even while walking and talking closely with him?",
+        "choices": [
+          "Because the risen Jesus looked completely different",
+          "Because their spiritual eyes were kept from recognizing him",
+          "Because they had never heard Jesus’ voice before",
+          "Because Jesus would not appear to anyone who had left Jerusalem"
+        ],
+        "explanation": "Although the two disciples walked and talked closely with Jesus, they did not recognize him because their spiritual eyes were kept from seeing who he was. This shows that even understanding the spiritual truth of familiar Scripture does not come through our own strength or ability. When we recognize our unbelief and weakness, we seek God’s grace and come to depend on the Lord."
+      },
+      "es": {
+        "question": "¿Por qué los dos discípulos que iban camino a Emaús no reconocieron a Jesús, aunque caminaban y conversaban de cerca con él?",
+        "choices": [
+          "Porque Jesús resucitado tenía una apariencia completamente diferente",
+          "Porque sus ojos espirituales estaban velados y no podían reconocerlo",
+          "Porque nunca antes habían oído la voz de Jesús",
+          "Porque Jesús no se aparecía a quienes habían salido de Jerusalén"
+        ],
+        "explanation": "Aunque los dos discípulos caminaban y conversaban de cerca con Jesús, no lo reconocieron porque sus ojos espirituales estaban velados. Esto muestra que ni siquiera podemos comprender la verdad espiritual de pasajes conocidos de las Escrituras mediante nuestras propias fuerzas o capacidades. Cuando reconocemos nuestra incredulidad y debilidad, buscamos la gracia de Dios y aprendemos a depender del Señor."
+      }
+    },
+    {
+      "id": "remote-gospels-113",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "부활하신 예수님께서 의심하는 제자들에게 손과 발을 보이시고 음식을 드신 이유는 무엇입니까?",
+        "choices": [
+          "영으로만 나타나셨음을 증명하려고",
+          "제자들과 잔치를 즐기려고",
+          "실제 몸으로 부활하셨음을 확증하려고",
+          "십자가의 흔적을 없애려고"
+        ],
+        "explanation": "제자들은 예수님을 영으로 생각하며 두려워했습니다. 예수님은 상처를 보이시고 음식을 드심으로써 부활이 환상이나 영적 상징이 아니라 실제 사건임을 확인시켜 주셨습니다."
+      },
+      "en": {
+        "question": "Why did the risen Jesus show his hands and feet to the doubtful disciples and eat food?",
+        "choices": [
+          "To prove that he had appeared only as a spirit",
+          "To enjoy a banquet with the disciples",
+          "To confirm that he had risen with a real body",
+          "To erase the marks of the cross"
+        ],
+        "explanation": "The disciples were afraid and thought they saw a spirit. By showing his wounds and eating, Jesus confirmed that the resurrection was a real event, not a vision or merely a symbol."
+      },
+      "es": {
+        "question": "¿Por qué mostró Jesús resucitado sus manos y pies y comió ante los discípulos?",
+        "choices": [
+          "Para probar que era solo un espíritu",
+          "Para disfrutar un banquete",
+          "Para confirmar que había resucitado con un cuerpo real",
+          "Para borrar las marcas de la cruz"
+        ],
+        "explanation": "Los discípulos creían ver un espíritu. Al mostrar las heridas y comer, Jesús confirmó que la resurrección fue un hecho real."
+      }
+    },
+    {
+      "id": "remote-gospels-114",
+      "category": "사복음서",
+      "answerIndex": 3,
+      "ko": {
+        "question": "디베랴 바닷가에서 예수님께서 베드로에게 세 번 “네가 나를 사랑하느냐”고 물으신 뜻은 무엇입니까?",
+        "choices": [
+          "베드로를 공개적으로 수치 주기 위해서",
+          "다시 어부로만 살게 하기 위해서",
+          "다른 제자보다 사랑이 적음을 증명하기 위해서",
+          "세 번 부인한 베드로를 회복시키고 양을 돌보는 사명을 맡기기 위해서"
+        ],
+        "explanation": "예수님은 실패한 베드로를 버리지 않고 사랑의 고백을 통해 회복시키셨습니다. 그리고 내 양을 먹이라고 하시며 주님의 양을 돌보는 사명을 다시 맡기셨습니다."
+      },
+      "en": {
+        "question": "Why did Jesus ask Peter three times by the Sea of Tiberias, “Do you love me?”",
+        "choices": [
+          "To shame Peter publicly",
+          "To send him back to fishing permanently",
+          "To prove that he loved Jesus less than the other disciples",
+          "To restore Peter after his three denials and entrust him with caring for the flock"
+        ],
+        "explanation": "Jesus did not abandon Peter after his failure, but restored him through a confession of love. He then renewed Peter's mission by telling him to feed the Lord's sheep."
+      },
+      "es": {
+        "question": "¿Por qué preguntó Jesús tres veces a Pedro «¿Me amas?» junto al mar de Tiberias?",
+        "choices": [
+          "Para avergonzarlo públicamente",
+          "Para devolverlo para siempre a la pesca",
+          "Para demostrar que amaba menos",
+          "Para restaurarlo tras sus tres negaciones y encargarle cuidar el rebaño"
+        ],
+        "explanation": "Jesús no abandonó a Pedro, sino que lo restauró mediante su confesión de amor y renovó su misión de alimentar las ovejas."
+      }
+    },
+    {
+      "id": "remote-gospels-115",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "예수님께서 제자들에게 주신 지상 명령의 핵심은 무엇입니까?",
+        "choices": [
+          "모든 민족에게 가서 제자를 삼고 가르치라는 것",
+          "예루살렘에만 머물러 있으라는 것",
+          "정치적 나라를 세우라는 것",
+          "기적만 보여주라는 것"
+        ],
+        "explanation": "부활하신 예수님은 모든 권세를 가지신 분으로서 제자들에게 모든 민족을 향해 가라고 하셨습니다. 복음을 전하고 세례를 베풀며 주님의 말씀을 지키도록 가르치는 사명입니다."
+      },
+      "en": {
+        "question": "What is the heart of the Great Commission Jesus gave his disciples?",
+        "choices": [
+          "Go to all nations, make disciples, and teach them.",
+          "Remain only in Jerusalem.",
+          "Establish a political kingdom.",
+          "Show miracles only."
+        ],
+        "explanation": "The risen Jesus, who possesses all authority, sent the disciples to all nations. Their mission was to preach the gospel, baptize, and teach people to obey his words."
+      },
+      "es": {
+        "question": "¿Cuál es el centro de la Gran Comisión?",
+        "choices": [
+          "Ir a todas las naciones, hacer discípulos y enseñarles",
+          "Permanecer solo en Jerusalén",
+          "Establecer un reino político",
+          "Mostrar únicamente milagros"
+        ],
+        "explanation": "Jesús resucitado envió a los discípulos a todas las naciones para predicar, bautizar y enseñar obediencia a su palabra."
+      }
+    },
+    {
+      "id": "remote-gospels-116",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "예수님의 승천 후 제자들이 하늘만 바라보고 있을 때 천사들이 한 말이 주는 교훈은 무엇입니까?",
+        "choices": [
+          "예수님은 다시 오시지 않는다",
+          "재림을 기다리되 맡겨진 증인의 사명을 행해야 한다",
+          "계속 하늘을 바라보는 것이 제자의 사명이다",
+          "예루살렘을 즉시 떠나 숨어야 한다"
+        ],
+        "explanation": "예수님은 올라가신 모습 그대로 다시 오실 것이지만 제자들은 그때만 바라보며 서 있어서는 안 됩니다. 성령의 능력을 받아 땅끝까지 복음을 증거하는 사명을 감당해야 합니다."
+      },
+      "en": {
+        "question": "After Jesus' ascension, what lesson was conveyed when the angels spoke to the disciples who were staring into the sky?",
+        "choices": [
+          "Jesus will not return.",
+          "Wait for his return while carrying out the mission entrusted to his witnesses.",
+          "A disciple's mission is to keep looking at the sky.",
+          "Leave Jerusalem immediately and hide."
+        ],
+        "explanation": "Jesus will return as he ascended, but the disciples were not to stand idle. They were to receive the Spirit's power and witness to the gospel to the ends of the earth."
+      },
+      "es": {
+        "question": "¿Qué enseñaron los ángeles a los discípulos que miraban al cielo después de la ascensión?",
+        "choices": [
+          "Jesús no volverá.",
+          "Deben esperar su regreso cumpliendo la misión de ser testigos.",
+          "La misión consiste en mirar al cielo.",
+          "Deben huir de Jerusalén."
+        ],
+        "explanation": "Jesús volverá como ascendió, pero los discípulos no debían permanecer inmóviles. Debían recibir poder del Espíritu y testificar hasta lo último de la tierra."
+      }
+    },
+    {
+      "id": "remote-gospels-117",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "예수님의 권위가 어디에서 왔느냐는 종교 지도자들의 질문에 예수님께서 세례 요한의 권위에 관해 되물으신 이유는 무엇입니까?",
+        "choices": [
+          "세례 요한에게 판단을 맡기기 위해서",
+          "자신의 권위가 없음을 인정하기 위해서",
+          "그들이 진리를 찾기보다 사람들의 반응을 계산하고 있음을 드러내기 위해서",
+          "세례 요한의 가르침을 부정하기 위해서"
+        ],
+        "explanation": "종교 지도자들은 예수님의 권위가 하나님께로부터 왔는지를 진실하게 알고 싶어서 질문한 것이 아니라 예수님을 책잡으려 했습니다."
+      },
+      "en": {
+        "question": "Why did Jesus answer the religious leaders' question about his authority by asking them about John the Baptist's authority?",
+        "choices": [
+          "To leave the decision to John",
+          "To admit that he had no authority",
+          "To expose that they calculated public reaction instead of seeking the truth",
+          "To reject John's teaching"
+        ],
+        "explanation": "The leaders wanted to trap Jesus, not honestly discover whether his authority came from God. When asked whether John's authority came from heaven or people, they considered consequences and public opinion rather than truth."
+      },
+      "es": {
+        "question": "¿Por qué respondió Jesús a la pregunta sobre su autoridad preguntando por la autoridad de Juan el Bautista?",
+        "choices": [
+          "Para dejar la decisión a Juan",
+          "Para admitir que no tenía autoridad",
+          "Para revelar que calculaban la reacción pública en vez de buscar la verdad",
+          "Para negar la enseñanza de Juan"
+        ],
+        "explanation": "Los dirigentes querían atrapar a Jesús, no conocer sinceramente la verdad. Ante la pregunta sobre Juan, pensaron en las consecuencias y la opinión pública."
+      }
+    },
+    {
+      "id": "remote-gospels-118",
+      "category": "사복음서",
+      "answerIndex": 1,
+      "ko": {
+        "question": "예수님께서 재림의 시기를 정확한 날짜로 알려주시지 않고 깨어 있으라고 하신 이유는 무엇입니까?",
+        "choices": [
+          "재림의 때가 아직 정해지지 않았기 때문에",
+          "날짜를 계산하는 것보다 언제 오시더라도 맞이할 수 있는 믿음의 삶이 중요하기 때문에",
+          "제자들에게 재림을 알리고 싶지 않으셨기 때문에",
+          "재림 전에 아무런 징조도 나타나지 않기 때문에"
+        ],
+        "explanation": "재림을 준비한다는 것은 시기를 계산하거나 징조에만 관심을 두는 것이 아닙니다. 그날과 그때를 알 수 없기에 성도는 언제 주님께서 오시더라도 맞이할 수 있도록 맡겨진 삶에 충실하며 믿음을 지켜야 합니다. 깨어 있다는 것은 두려움 속에서 기다리는 것이 아니라 매일 주님의 뜻에 따라 살아가는 것입니다."
+      },
+      "en": {
+        "question": "Why did Jesus tell his disciples to stay awake instead of revealing the exact date of his return?",
+        "choices": [
+          "The date had not yet been decided.",
+          "A faithful life ready to welcome him at any time matters more than calculating dates.",
+          "Jesus did not want the disciples to know about his return.",
+          "There will be no signs before his return."
+        ],
+        "explanation": "Preparing for Christ's return is not merely calculating dates or watching signs. Since no one knows the day or hour, believers should faithfully live each day according to the Lord's will."
+      },
+      "es": {
+        "question": "¿Por qué mandó Jesús velar en vez de revelar la fecha exacta de su regreso?",
+        "choices": [
+          "La fecha aún no había sido decidida.",
+          "Es más importante vivir preparados para recibirlo en cualquier momento que calcular fechas.",
+          "No quería hablar del regreso.",
+          "No habrá señales previas."
+        ],
+        "explanation": "Prepararse no consiste solo en calcular fechas o señales. Como nadie conoce el día, debemos vivir fielmente cada día según la voluntad del Señor."
+      }
+    },
+    {
+      "id": "remote-gospels-119",
+      "category": "사복음서",
+      "answerIndex": 0,
+      "ko": {
+        "question": "가룟 유다가 예수님을 배반하기로 한 사건에서 가장 경계해야 할 신앙의 모습은 무엇입니까?",
+        "choices": [
+          "예수님 가까이에 있기만 하면 마음의 욕심도 저절로 사라진다고 생각하는 것",
+          "신앙생활을 하면서 돈을 사용하는 것",
+          "다른 제자들과 함께 식사하는 것",
+          "종교 지도자들과 대화하는 것"
+        ],
+        "explanation": "가룟 유다는 예수님의 제자로서 오랫동안 말씀을 듣고 기적을 보았지만 마음속 욕심을 버리지 않았습니다."
+      },
+      "en": {
+        "question": "What form of faith should we especially guard against in the account of Judas Iscariot's decision to betray Jesus?",
+        "choices": [
+          "Assuming that being physically close to Jesus will automatically remove inner greed",
+          "Using money while practicing faith",
+          "Eating with other disciples",
+          "Speaking with religious leaders"
+        ],
+        "explanation": "Judas heard Jesus' teaching and saw miracles for years, yet did not surrender his greed. External closeness to the Lord and membership in a faith community do not automatically transform the heart without repentance."
+      },
+      "es": {
+        "question": "¿Qué forma de fe debemos evitar especialmente al recordar la traición de Judas Iscariote?",
+        "choices": [
+          "Suponer que estar cerca de Jesús elimina automáticamente la codicia interior",
+          "Usar dinero durante la vida de fe",
+          "Comer con otros discípulos",
+          "Hablar con dirigentes religiosos"
+        ],
+        "explanation": "Judas oyó la enseñanza y vio milagros, pero no abandonó su codicia. La cercanía externa y la pertenencia a una comunidad no transforman el corazón sin arrepentimiento."
+      }
+    },
+    {
+      "id": "remote-gospels-120",
+      "category": "사복음서",
+      "answerIndex": 2,
+      "ko": {
+        "question": "예수님께서 안나스와 가야바 앞에서 불공정한 심문을 받으시면서도 하나님의 뜻에 순종하신 모습이 보여주는 것은 무엇입니까?",
+        "choices": [
+          "거짓된 재판도 언제나 정당하다는 것",
+          "억울한 일을 당하면 아무 말도 해서는 안 된다는 것",
+          "하나님의 뜻을 이루기 위해 자신의 권리와 능력을 함부로 사용하지 않으신 것",
+          "종교 지도자들의 판단이 옳았다는 것"
+        ],
+        "explanation": "예수님을 심문한 사람들은 이미 예수님을 죽이기로 결정한 채 증거와 명분을 찾으려 했습니다. 예수님께서는 그들의 재판이 불의하다는 사실을 밝히셨지만, 자신의 능력으로 그 자리를 피하거나 보복하지 않으셨습니다."
+      },
+      "en": {
+        "question": "What did Jesus show by submitting to God's will while undergoing an unjust hearing before Annas and Caiaphas?",
+        "choices": [
+          "False trials are always legitimate.",
+          "A person must never speak when treated unjustly.",
+          "He did not misuse his rights or power because he was committed to fulfilling God's will.",
+          "The religious leaders' judgment was correct."
+        ],
+        "explanation": "Jesus' judges had already decided to kill him and were seeking evidence to justify it. Jesus exposed their injustice, yet did not use his power to escape or retaliate, because he chose to obey God's saving plan to the end."
+      },
+      "es": {
+        "question": "¿Qué mostró Jesús al someterse a Dios durante el juicio injusto ante Anás y Caifás?",
+        "choices": [
+          "Los juicios falsos siempre son legítimos.",
+          "Nunca debe hablarse ante la injusticia.",
+          "No usó indebidamente sus derechos ni su poder porque quería cumplir la voluntad de Dios.",
+          "El juicio de los dirigentes era correcto."
+        ],
+        "explanation": "Sus jueces ya habían decidido matarlo y buscaban una justificación. Jesús señaló la injusticia, pero no usó su poder para escapar o vengarse, pues obedeció hasta el final el plan salvador de Dios."
+      }
+    }
+  ]
 }
