@@ -1,27 +1,27 @@
 {
   "notices": [
     {
-      "id": "notice-gospels-2026-10",
+      "id": "notice-update-2-3-2-2026-10",
       "enabled": true,
       "title": {
-        "ko": "사복음서 문답 추가",
-        "en": "New Four Gospels Q&A",
-        "es": "Nuevas preguntas de los Cuatro Evangelios"
+        "ko": "말씀 문답 2.3.2 업데이트",
+        "en": "Bible Q&A 2.3.2 Update",
+        "es": "Actualización 2.3.2 de Preguntas Bíblicas"
       },
       "body": {
-        "ko": "사복음서 문답이 새롭게 추가되었습니다.",
-        "en": "New Four Gospels questions have been added.",
-        "es": "Se han añadido nuevas preguntas sobre los Cuatro Evangelios."
+        "ko": "자동 업데이트가 되지 않았다면 Google Play 스토어에서 최신 버전으로 직접 업데이트해 주세요.",
+        "en": "If the app did not update automatically, please update to the latest version manually from the Google Play Store.",
+        "es": "Si la app no se actualizó automáticamente, actualízala manualmente a la versión más reciente desde Google Play Store."
       },
       "image": {
-        "ko": "https://salt120418-collab.github.io/malsseum-mundap/announcements/k3.png",
-        "en": "https://salt120418-collab.github.io/malsseum-mundap/announcements/e3.png",
-        "es": "https://salt120418-collab.github.io/malsseum-mundap/announcements/s3.png"
+        "ko": "https://salt120418-collab.github.io/malsseum-mundap/announcements/k4.png",
+        "en": "https://salt120418-collab.github.io/malsseum-mundap/announcements/e4.png",
+        "es": "https://salt120418-collab.github.io/malsseum-mundap/announcements/s4.png"
       },
       "alt": {
-        "ko": "사복음서 문답 추가",
-        "en": "New Four Gospels Q&A",
-        "es": "Nuevas preguntas de los Cuatro Evangelios"
+        "ko": "말씀 문답 2.3.2 업데이트",
+        "en": "Bible Q&A 2.3.2 Update",
+        "es": "Actualización 2.3.2 de Preguntas Bíblicas"
       }
     }
   ]
