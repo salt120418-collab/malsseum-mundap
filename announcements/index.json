@@ -1,3 +1,28 @@
 {
-  "notices": []
+  "notices": [
+    {
+      "id": "notice-faith-path-explanations-2026-11",
+      "enabled": true,
+      "title": {
+        "ko": "믿음의 길 해설 업데이트",
+        "en": "The Path of Faith Explanation Update",
+        "es": "Actualización de explicaciones de El Camino de la Fe"
+      },
+      "body": {
+        "ko": "자동 업데이트가 되지 않았다면 Google Play 스토어에서 최신 버전으로 직접 업데이트해 주세요.",
+        "en": "If the app did not update automatically, please update to the latest version manually from the Google Play Store.",
+        "es": "Si la app no se actualizó automáticamente, actualízala manualmente a la versión más reciente desde Google Play Store."
+      },
+      "image": {
+        "ko": "https://salt120418-collab.github.io/malsseum-mundap/announcements/k6.png",
+        "en": "https://salt120418-collab.github.io/malsseum-mundap/announcements/e6.png",
+        "es": "https://salt120418-collab.github.io/malsseum-mundap/announcements/s6.png"
+      },
+      "alt": {
+        "ko": "믿음의 길 해설 업데이트",
+        "en": "The Path of Faith Explanation Update",
+        "es": "Actualización de explicaciones de El Camino de la Fe"
+      }
+    }
+  ]
 }
